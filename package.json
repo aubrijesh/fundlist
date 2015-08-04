@@ -1,0 +1,10 @@
+{
+    "name"         : "KURTOSYS-FRONTEND-TEST",
+    "version"      : "0.0.0",
+    "description"  : "Angular application which shows the fund and share classes information on a page.",
+    "main"         : "app.js",
+    "author"       : "GAURAV Joshi",
+    "dependencies" : {
+        "express"  : "*"
+    }
+}

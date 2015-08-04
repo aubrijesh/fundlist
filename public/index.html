@@ -1,0 +1,84 @@
+<!doctype html>
+
+<!-- ASSIGN OUR ANGULAR MODULE -->
+<html data-ng-app="myKurtosysApp">
+	<head>
+		<!-- META -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1"><!-- Optimize mobile viewport -->
+
+		<title>KURTOSYS FRONTEND TEST</title>
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/bootstrap.min.css"><!-- load bootstrap CSS-->
+		<style type="text/css">
+			.top-40 {
+				margin-top: 40px;
+			}
+			.color-yellow {
+				color :#ffd700;
+			}
+		</style>
+		<!-- JAVASCRIPT -->
+		<script type="text/javascript" src="/js/jquery.min.js"></script><!-- load Jquery-->
+		<script type="text/javascript" src="/js/bootstrap.min.js"></script><!-- load bootstrap JS-->
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script><!-- load angular -->
+
+		<script src="js/app.js"></script> <!-- load our main application -->
+		<script src="js/controllers/main.js"></script> <!-- load our controller -->
+		<script src="js/services/service.js"></script> <!-- load our service -->
+
+	</head>
+	<!-- SET THE CONTROLLER -->
+	<body data-ng-controller="mainController">
+		<div class="container">
+			<div class="row top-40">
+				<div class="col-md-offset-2 col-md-8">
+					<div class="input-group">
+						<input type="text" class="form-control" placeholder="Search Fund Name or ISIN">
+						<span class="input-group-btn">
+							<button class="btn btn-warning" type="button">
+								<i class="glyphicon glyphicon-search"></i>
+								Search
+							</button>
+						</span>
+					</div><!-- /input-group -->
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-9"></div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<hr>
+					<b>VIEW</b>
+					<div class="checkbox">
+					  	<label>
+					  		<input type="checkbox" value="">
+					  		<span class="glyphicon glyphicon-star color-yellow" aria-hidden="true"></span>
+					  		WatchList (<span data-ng-bind="0"></span>)
+					  	</label>
+					</div>
+					<div class="checkbox">
+					  	<label><input type="checkbox" value="">All Funds</label>
+					</div>
+					<hr>
+					<b>TYPE</b>
+					<div class="checkbox" data-ng-repeat="item in filter">
+					  	<label data-ng-if="item.FilterTypeName === 'Type'">
+					  		<input type="checkbox" value="">
+					  		<span  data-ng-bind="item.FilterName"></span>
+					  	</label>
+					</div>
+					<hr>
+					<b>SHARE CLASS</b>
+					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Share Class'}" ng-model="selected"></select>
+					<hr>
+				</div>
+				<div class="col-md-9"></div>
+			</div>
+
+		</div>
+	</body>
+</html>

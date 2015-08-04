@@ -1,0 +1,5919 @@
+{
+      "Name": "ISIN",
+      "RowCount": 1478,
+      "FieldsCount": 2,
+      "Rows": [
+        {
+          "ISIN": "LU0355584979",
+          "FundName": "JPM Africa Equity A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0355584466",
+          "FundName": "JPM Africa Equity A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0355584896",
+          "FundName": "JPM Africa Equity A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0355584623",
+          "FundName": "JPM Africa Equity A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0554776046",
+          "FundName": "JPM Africa Equity A (perf) (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0935941186",
+          "FundName": "JPM Africa Equity B (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0355585190",
+          "FundName": "JPM Africa Equity B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847324604",
+          "FundName": "JPM Africa Equity B (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0355585273",
+          "FundName": "JPM Africa Equity C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822041561",
+          "FundName": "JPM Africa Equity C (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0355585513",
+          "FundName": "JPM Africa Equity D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0355585430",
+          "FundName": "JPM Africa Equity D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0355585604",
+          "FundName": "JPM Africa Equity I (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0430493212",
+          "FundName": "JPM Aggregate Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430493139",
+          "FundName": "JPM Aggregate Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0955580542",
+          "FundName": "JPM Aggregate Bond B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430493303",
+          "FundName": "JPM Aggregate Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0430493568",
+          "FundName": "JPM Aggregate Bond C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430493485",
+          "FundName": "JPM Aggregate Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0654526184",
+          "FundName": "JPM Aggregate Bond C (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0872748966",
+          "FundName": "JPM Aggregate Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0876588301",
+          "FundName": "JPM Aggregate Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0900194498",
+          "FundName": "JPM Aggregate Bond X (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0217390227",
+          "FundName": "JPM America Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0159042083",
+          "FundName": "JPM America Equity A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210528500",
+          "FundName": "JPM America Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0053666078",
+          "FundName": "JPM America Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117906072",
+          "FundName": "JPMorgan America Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129458765",
+          "FundName": "JPM America Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847324786",
+          "FundName": "JPM America Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289216672",
+          "FundName": "JPM America Equity C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129459060",
+          "FundName": "JPM America Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822041645",
+          "FundName": "JPM America Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0217390490",
+          "FundName": "JPM America Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0159059210",
+          "FundName": "JPM America Equity D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0117861202",
+          "FundName": "JPM America Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "GB00BGSHG957",
+          "FundName": "JPM America Equity Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BGSHG841",
+          "FundName": "JPM America Equity Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00BGSHGB71",
+          "FundName": "JPM America Equity Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BGSHGD95",
+          "FundName": "JPM America Equity Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BGSHGC88",
+          "FundName": "JPM America Equity Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0143811049",
+          "FundName": "JPM America Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441852612",
+          "FundName": "JPMorgan ASEAN Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441851309",
+          "FundName": "JPMorgan ASEAN Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441852885",
+          "FundName": "JPMorgan ASEAN Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441851481",
+          "FundName": "JPMorgan ASEAN Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0712206050",
+          "FundName": "JPMorgan ASEAN Equity B (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0441853008",
+          "FundName": "JPMorgan ASEAN Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441851648",
+          "FundName": "JPMorgan ASEAN Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441853263",
+          "FundName": "JPMorgan ASEAN Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441851994",
+          "FundName": "JPMorgan ASEAN Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441852299",
+          "FundName": "JPMorgan ASEAN Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441852455",
+          "FundName": "JPMorgan ASEAN Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0169518387",
+          "FundName": "JPMorgan Asia Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0224733013",
+          "FundName": "JPMorgan Asia Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0933155292",
+          "FundName": "JPMorgan Asia Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0943624584",
+          "FundName": "JPMorgan Asia Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0943624741",
+          "FundName": "JPMorgan Asia Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0169519435",
+          "FundName": "JPMorgan Asia Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0030879695",
+          "FundName": "JPM Asia Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMSK57",
+          "FundName": "JPM Asia Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YWMF73",
+          "FundName": "JPM Asia Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235GR40",
+          "FundName": "JPM Asia Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235H044",
+          "FundName": "JPM Asia Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0492071401",
+          "FundName": "JPM Asia Local Currency Debt A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210527791",
+          "FundName": "JPMorgan Asia Pacific Income A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117844026",
+          "FundName": "JPMorgan Asia Pacific Income A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129499017",
+          "FundName": "JPMorgan Asia Pacific Income B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822046792",
+          "FundName": "JPMorgan Asia Pacific Income C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117844612",
+          "FundName": "JPMorgan Asia Pacific Income D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441855714",
+          "FundName": "JPM Asia Pacific Strategic Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441854154",
+          "FundName": "JPM Asia Pacific Strategic Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0932051898",
+          "FundName": "JPM Asia Pacific Strategic Equity A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0613488591",
+          "FundName": "JPM Asia Pacific Strategic Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0441855987",
+          "FundName": "JPM Asia Pacific Strategic Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441854311",
+          "FundName": "JPM Asia Pacific Strategic Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847324943",
+          "FundName": "JPM Asia Pacific Strategic Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0441856100",
+          "FundName": "JPM Asia Pacific Strategic Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0441854584",
+          "FundName": "JPM Asia Pacific Strategic Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0441855474",
+          "FundName": "JPM Asia Pacific Strategic Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB00BD3Q6G30",
+          "FundName": "JPM Balanced Managed Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BD3Q6H47",
+          "FundName": "JPM Balanced Managed Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00BD3Q6J60",
+          "FundName": "JPM Balanced Managed Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0070212914",
+          "FundName": "JPM Blue and Green A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0582659420",
+          "FundName": "JPM Brazil Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0318934451",
+          "FundName": "JPM Brazil Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0318934535",
+          "FundName": "JPM Brazil Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0336750111",
+          "FundName": "JPM Brazil Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0318936407",
+          "FundName": "JPM Brazil Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0522352789",
+          "FundName": "JPM Brazil Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0318936589",
+          "FundName": "JPM Brazil Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0318936662",
+          "FundName": "JPM Brazil Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "GB00B09RGK38",
+          "FundName": "JPM Cautious Managed Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B09RGL45",
+          "FundName": "JPM Cautious Managed Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YWMZ79",
+          "FundName": "JPM Cautious Managed Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B40F7451",
+          "FundName": "JPM Cautious Managed Fund C - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B235HC61",
+          "FundName": "JPM Cautious Managed Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235HG00",
+          "FundName": "JPM Cautious Managed Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B1KVJ023",
+          "FundName": "JPM Cautious Managed Fund I - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B09RGM51",
+          "FundName": "JPM Cautious Managed Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B09RGN68",
+          "FundName": "JPM Cautious Managed Fund I - Net Income"
+        },
+        {
+          "ISIN": "GB00B23VZR59",
+          "FundName": "JPM Cautious Managed Fund X - Gross Accumulation"
+        },
+        {
+          "ISIN": "LU0210526637",
+          "FundName": "JPMorgan China A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0051755006",
+          "FundName": "JPMorgan China A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129472592",
+          "FundName": "JPMorgan China B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847322657",
+          "FundName": "JPMorgan China B (dist) - USD"
+        },
+        {
+          "ISIN": "LU1161826968",
+          "FundName": "JPM China Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0129472758",
+          "FundName": "JPMorgan China C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822046875",
+          "FundName": "JPMorgan China C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0522352607",
+          "FundName": "JPMorgan China D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117867159",
+          "FundName": "JPMorgan China D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143809738",
+          "FundName": "JPMorgan China X (acc) - USD"
+        },
+        {
+          "ISIN": "GB00B7G8VY77",
+          "FundName": "JPM Diversified Real Return Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7D69G24",
+          "FundName": "JPM Diversified Real Return Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B7G8WZ59",
+          "FundName": "JPM Diversified Real Return Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B6TYHV47",
+          "FundName": "JPM Diversified Real Return Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0875415688",
+          "FundName": "JPM Diversified Risk A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210529144",
+          "FundName": "JPM Eastern Europe Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0634316219",
+          "FundName": "JPM Eastern Europe Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0051759099",
+          "FundName": "JPM Eastern Europe Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117907716",
+          "FundName": "JPMorgan Eastern Europe Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129488838",
+          "FundName": "JPM Eastern Europe Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847325163",
+          "FundName": "JPM Eastern Europe Equity B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129489489",
+          "FundName": "JPM Eastern Europe Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822041991",
+          "FundName": "JPM Eastern Europe Equity C (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117895796",
+          "FundName": "JPM Eastern Europe Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0248043308",
+          "FundName": "JPM Eastern Europe Equity I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0143811395",
+          "FundName": "JPM Eastern Europe Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0401357586",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210529573",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0074838565",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129489729",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847325247",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129490065",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0522352359",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117896091",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143811478",
+          "FundName": "JPM Emerging Europe, Middle East and Africa Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "LU1155791426",
+          "FundName": "JPM Emerging Markets Aggregate Bond I (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0431994713",
+          "FundName": "JPM Emerging Markets Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0431994986",
+          "FundName": "JPM Emerging Markets Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0431995280",
+          "FundName": "JPM Emerging Markets Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0431995876",
+          "FundName": "JPM Emerging Markets Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0431996254",
+          "FundName": "JPM Emerging Markets Bond I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0552548421",
+          "FundName": "JPM Emerging Markets Bond X (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0431996684",
+          "FundName": "JPM Emerging Markets Bond X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0512127621",
+          "FundName": "JPM Emerging Markets Corporate Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0512127548",
+          "FundName": "JPM Emerging Markets Corporate Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0956099021",
+          "FundName": "JPM Emerging Markets Corporate Bond A (acc) - USD - Duration (hedged)"
+        },
+        {
+          "ISIN": "LU0560335993",
+          "FundName": "JPM Emerging Markets Corporate Bond A (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0861977238",
+          "FundName": "JPM Emerging Markets Corporate Bond B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0512127894",
+          "FundName": "JPM Emerging Markets Corporate Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU1026157781",
+          "FundName": "JPM Emerging Markets Corporate Bond B (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0512127977",
+          "FundName": "JPM Emerging Markets Corporate Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0956099377",
+          "FundName": "JPM Emerging Markets Corporate Bond C (acc) - USD - Duration (hedged)"
+        },
+        {
+          "ISIN": "LU1021315921",
+          "FundName": "JPM Emerging Markets Corporate Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU1009069961",
+          "FundName": "JPM Emerging Markets Corporate Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0512128355",
+          "FundName": "JPM Emerging Markets Corporate Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0512128512",
+          "FundName": "JPM Emerging Markets Corporate Bond X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210532528",
+          "FundName": "JPM Emerging Markets Debt A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0872703946",
+          "FundName": "JPM Emerging Markets Debt A (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0499112034",
+          "FundName": "JPM Emerging Markets Debt A (acc) - USD"
+        },
+        {
+          "ISIN": "LU1017435600",
+          "FundName": "JPM Emerging Markets Debt A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0072845869",
+          "FundName": "JPM Emerging Markets Debt A (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0784324542",
+          "FundName": "JPM Emerging Markets Debt A (inc) - USD"
+        },
+        {
+          "ISIN": "LU0217389997",
+          "FundName": "JPM Emerging Markets Debt B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0773644637",
+          "FundName": "JPM Emerging Markets Debt B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0951368009",
+          "FundName": "JPM Emerging Markets Debt B (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0217390060",
+          "FundName": "JPM Emerging Markets Debt C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0783491409",
+          "FundName": "JPM Emerging Markets Debt C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117898204",
+          "FundName": "JPM Emerging Markets Debt D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0248063322",
+          "FundName": "JPM Emerging Markets Debt I (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0217390144",
+          "FundName": "JPM Emerging Markets Debt X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0799658801",
+          "FundName": "JPM Emerging Markets Debt X (dist) - USD"
+        },
+        {
+          "ISIN": "LU0594426784",
+          "FundName": "JPM Emerging Markets Diversified Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0535954134",
+          "FundName": "JPM Emerging Markets Diversified Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0531009297",
+          "FundName": "JPM Emerging Markets Diversified Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0531008992",
+          "FundName": "JPM Emerging Markets Diversified Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0862449690",
+          "FundName": "JPM Emerging Markets Dividend A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0862449427",
+          "FundName": "JPM Emerging Markets Dividend A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0938962627",
+          "FundName": "JPM Emerging Markets Dividend A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0878583243",
+          "FundName": "JPM Emerging Markets Dividend B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0862450359",
+          "FundName": "JPM Emerging Markets Dividend C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0217576759",
+          "FundName": "JPM Emerging Markets Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0159050771",
+          "FundName": "JPM Emerging Markets Equity A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210529656",
+          "FundName": "JPM Emerging Markets Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119096559",
+          "FundName": "JPM Emerging Markets Equity A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0053685615",
+          "FundName": "JPM Emerging Markets Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0861977154",
+          "FundName": "JPM Emerging Markets Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129488085",
+          "FundName": "JPM Emerging Markets Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847325676",
+          "FundName": "JPM Emerging Markets Equity B (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0847325759",
+          "FundName": "JPM Emerging Markets Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0822042536",
+          "FundName": "JPM Emerging Markets Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129488242",
+          "FundName": "JPM Emerging Markets Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822042619",
+          "FundName": "JPM Emerging Markets Equity C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0593319907",
+          "FundName": "JPM Emerging Markets Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0217576833",
+          "FundName": "JPM Emerging Markets Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117895366",
+          "FundName": "JPM Emerging Markets Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0383004313",
+          "FundName": "JPM Emerging Markets Equity I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0248044025",
+          "FundName": "JPM Emerging Markets Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248044298",
+          "FundName": "JPM Emerging Markets Equity I (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0593322281",
+          "FundName": "JPM Emerging Markets Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0143811551",
+          "FundName": "JPM Emerging Markets Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0400678412",
+          "FundName": "JPM Emerging Markets Equity X (dist) - USD"
+        },
+        {
+          "ISIN": "LU0235638946",
+          "FundName": "JPM Emerging Markets Equity X (inc) - EUR"
+        },
+        {
+          "ISIN": "GB0030881550",
+          "FundName": "JPM Emerging Markets Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMSZ01",
+          "FundName": "JPM Emerging Markets Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YX4S73",
+          "FundName": "JPM Emerging Markets Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YX4W10",
+          "FundName": "JPM Emerging Markets Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB0030881774",
+          "FundName": "JPM Emerging Markets Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BBVHWS80",
+          "FundName": "JPM Emerging Markets Fund I - Net Income"
+        },
+        {
+          "ISIN": "GB00BD02KV73",
+          "FundName": "JPM Emerging Markets Fund X - Net Income"
+        },
+        {
+          "ISIN": "GB00B56DF680",
+          "FundName": "JPM Emerging Markets Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B50VRT53",
+          "FundName": "JPM Emerging Markets Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B5T0GN09",
+          "FundName": "JPM Emerging Markets Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B592H774",
+          "FundName": "JPM Emerging Markets Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B5M5KY18",
+          "FundName": "JPM Emerging Markets Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B5N1BC33",
+          "FundName": "JPM Emerging Markets Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B5WFXL97",
+          "FundName": "JPM Emerging Markets Income Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0562246297",
+          "FundName": "JPM Emerging Markets Investment Grade Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0562246024",
+          "FundName": "JPM Emerging Markets Investment Grade Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0565387981",
+          "FundName": "JPM Emerging Markets Investment Grade Bond A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0562246370",
+          "FundName": "JPM Emerging Markets Investment Grade Bond A (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0562246453",
+          "FundName": "JPM Emerging Markets Investment Grade Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562246701",
+          "FundName": "JPM Emerging Markets Investment Grade Bond C (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0562246966",
+          "FundName": "JPM Emerging Markets Investment Grade Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0562247006",
+          "FundName": "JPM Emerging Markets Investment Grade Bond I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0332400232",
+          "FundName": "JPM Emerging Markets Local Currency Debt A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0332400406",
+          "FundName": "JPM Emerging Markets Local Currency Debt A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0531673738",
+          "FundName": "JPM Emerging Markets Local Currency Debt A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0332400315",
+          "FundName": "JPM Emerging Markets Local Currency Debt A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0332400588",
+          "FundName": "JPM Emerging Markets Local Currency Debt B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0332400661",
+          "FundName": "JPM Emerging Markets Local Currency Debt B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0765280127",
+          "FundName": "JPM Emerging Markets Local Currency Debt B (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0332400745",
+          "FundName": "JPM Emerging Markets Local Currency Debt C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0332400828",
+          "FundName": "JPM Emerging Markets Local Currency Debt C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822042700",
+          "FundName": "JPM Emerging Markets Local Currency Debt C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0332401040",
+          "FundName": "JPM Emerging Markets Local Currency Debt D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0332401123",
+          "FundName": "JPM Emerging Markets Local Currency Debt D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0332401396",
+          "FundName": "JPM Emerging Markets Local Currency Debt I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0332401552",
+          "FundName": "JPM Emerging Markets Local Currency Debt I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0332401479",
+          "FundName": "JPM Emerging Markets Local Currency Debt I (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0332401982",
+          "FundName": "JPM Emerging Markets Local Currency Debt X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0759999336",
+          "FundName": "JPM Emerging Markets Opportunities A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0431992006",
+          "FundName": "JPM Emerging Markets Opportunities A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0776319500",
+          "FundName": "JPM Emerging Markets Opportunities A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0776330572",
+          "FundName": "JPM Emerging Markets Opportunities A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0776316233",
+          "FundName": "JPM Emerging Markets Opportunities A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0759999849",
+          "FundName": "JPM Emerging Markets Opportunities B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0431992774",
+          "FundName": "JPM Emerging Markets Opportunities B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847325916",
+          "FundName": "JPM Emerging Markets Opportunities B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0776329996",
+          "FundName": "JPM Emerging Markets Opportunities B (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0892057190",
+          "FundName": "JPM Emerging Markets Opportunities B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0760000421",
+          "FundName": "JPM Emerging Markets Opportunities C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0431993079",
+          "FundName": "JPM Emerging Markets Opportunities C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0776329210",
+          "FundName": "JPM Emerging Markets Opportunities C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0846584562",
+          "FundName": "JPM Emerging Markets Opportunities C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0431993749",
+          "FundName": "JPM Emerging Markets Opportunities I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0823807010",
+          "FundName": "JPM Emerging Markets Opportunities X (acc) - GBP"
+        },
+        {
+          "ISIN": "LU0431994390",
+          "FundName": "JPM Emerging Markets Opportunities X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0318933057",
+          "FundName": "JPM Emerging Markets Small Cap A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0318931358",
+          "FundName": "JPM Emerging Markets Small Cap A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0318932836",
+          "FundName": "JPM Emerging Markets Small Cap A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0935941426",
+          "FundName": "JPM Emerging Markets Small Cap B (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0318933131",
+          "FundName": "JPM Emerging Markets Small Cap B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0474315818",
+          "FundName": "JPM Emerging Markets Small Cap C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0318933214",
+          "FundName": "JPM Emerging Markets Small Cap C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822042882",
+          "FundName": "JPM Emerging Markets Small Cap C (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0318933487",
+          "FundName": "JPM Emerging Markets Small Cap D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0318933305",
+          "FundName": "JPM Emerging Markets Small Cap D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0318933560",
+          "FundName": "JPM Emerging Markets Small Cap I (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU1162084740",
+          "FundName": "JPM Emerging Markets Strategic Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU1162085390",
+          "FundName": "JPM Emerging Markets Strategic Bond A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0599213559",
+          "FundName": "JPM Emerging Markets Strategic Bond A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU1150047519",
+          "FundName": "JPM Emerging Markets Strategic Bond A (perf) (acc) - GBP"
+        },
+        {
+          "ISIN": "LU0599213476",
+          "FundName": "JPM Emerging Markets Strategic Bond A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU1093309497",
+          "FundName": "JPM Emerging Markets Strategic Bond B (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU1162085044",
+          "FundName": "JPM Emerging Markets Strategic Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU1162085630",
+          "FundName": "JPM Emerging Markets Strategic Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU1162085713",
+          "FundName": "JPM Emerging Markets Strategic Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0599213807",
+          "FundName": "JPM Emerging Markets Strategic Bond C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU1061846231",
+          "FundName": "JPM Emerging Markets Strategic Bond C (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0599214011",
+          "FundName": "JPM Emerging Markets Strategic Bond D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0401356422",
+          "FundName": "JPM Emerging Middle East Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210535208",
+          "FundName": "JPM Emerging Middle East Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0083573666",
+          "FundName": "JPM Emerging Middle East Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129492863",
+          "FundName": "JPM Emerging Middle East Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847326138",
+          "FundName": "JPM Emerging Middle East Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129493754",
+          "FundName": "JPM Emerging Middle East Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0522352433",
+          "FundName": "JPM Emerging Middle East Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117896257",
+          "FundName": "JPM Emerging Middle East Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248057191",
+          "FundName": "JPM Emerging Middle East Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0363447680",
+          "FundName": "JPM EU Government Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0955580625",
+          "FundName": "JPM EU Government Bond A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0355583815",
+          "FundName": "JPM EU Government Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0355583906",
+          "FundName": "JPM EU Government Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0659147606",
+          "FundName": "JPM EU Government Bond C (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0355584037",
+          "FundName": "JPM EU Government Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0430492594",
+          "FundName": "JPM Euro Aggregate Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0955580385",
+          "FundName": "JPM Euro Aggregate Bond A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0430492677",
+          "FundName": "JPM Euro Aggregate Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0430492750",
+          "FundName": "JPM Euro Aggregate Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408847340",
+          "FundName": "JPM Euro Corporate Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408847696",
+          "FundName": "JPM Euro Corporate Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408847852",
+          "FundName": "JPM Euro Corporate Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408847936",
+          "FundName": "JPM Euro Corporate Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408877412",
+          "FundName": "JPM Euro Government Short Duration Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408877503",
+          "FundName": "JPM Euro Government Short Duration Bond A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0408877685",
+          "FundName": "JPM Euro Government Short Duration Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408877768",
+          "FundName": "JPM Euro Government Short Duration Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408877842",
+          "FundName": "JPM Euro Government Short Duration Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0252499412",
+          "FundName": "JPM Euro Money Market A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0432977246",
+          "FundName": "JPMorgan Euro Money Market A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0252500524",
+          "FundName": "JPM Euro Money Market D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0430494293",
+          "FundName": "JPM Euro Short Duration Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0430494459",
+          "FundName": "JPM Euro Short Duration Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0457775616",
+          "FundName": "JPM Euro Short Duration Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0965086035",
+          "FundName": "JPM Euro Short Duration Bond C (dist) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0430494533",
+          "FundName": "JPM Euro Short Duration Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0661985969",
+          "FundName": "JPM Euroland Dynamic A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0661986181",
+          "FundName": "JPM Euroland Dynamic B (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0661986264",
+          "FundName": "JPM Euroland Dynamic C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0679190412",
+          "FundName": "JPM Euroland Dynamic C (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0210529490",
+          "FundName": "JPM Euroland Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0979766606",
+          "FundName": "JPM Euroland Equity A (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0979766432",
+          "FundName": "JPM Euroland Equity A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0089640097",
+          "FundName": "JPM Euroland Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117904457",
+          "FundName": "JPMorgan Euroland Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289338195",
+          "FundName": "JPM Euroland Equity A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0129439971",
+          "FundName": "JPM Euroland Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1096619371",
+          "FundName": "JPM Euroland Equity B (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0847326302",
+          "FundName": "JPM Euroland Equity B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129440391",
+          "FundName": "JPM Euroland Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822043187",
+          "FundName": "JPM Euroland Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117858166",
+          "FundName": "JPM Euroland Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0143811635",
+          "FundName": "JPM Euroland Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0661987155",
+          "FundName": "JPM Euroland Focus A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0308871747",
+          "FundName": "JPM Euroland Select Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0308872398",
+          "FundName": "JPM Euroland Select Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0308872471",
+          "FundName": "JPM Euroland Select Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0308872554",
+          "FundName": "JPM Euroland Select Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0308872638",
+          "FundName": "JPM Euroland Select Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0308873107",
+          "FundName": "JPM Euroland Select Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "GB00B02L5M76",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B42T7F64",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund A - Net Accumulation (GBP hedged)"
+        },
+        {
+          "ISIN": "GB00B1JFB215",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B2359420",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B2359750",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B845HL62",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BCV7MM92",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund C - Net Accumulation (GBP Hedged)"
+        },
+        {
+          "ISIN": "GB00B7YLCD41",
+          "FundName": "JPM Europe Dynamic (ex-UK) Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0210530662",
+          "FundName": "JPM Europe Dynamic A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0119062650",
+          "FundName": "JPM Europe Dynamic A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0143905700",
+          "FundName": "JPMorgan Europe Dynamic A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0119088705",
+          "FundName": "JPM Europe Dynamic A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0129450275",
+          "FundName": "JPM Europe Dynamic B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0997536171",
+          "FundName": "JPM Europe Dynamic B (acc) - USD"
+        },
+        {
+          "ISIN": "LU1046623663",
+          "FundName": "JPM Europe Dynamic B (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0847327292",
+          "FundName": "JPM Europe Dynamic B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0847327375",
+          "FundName": "JPM Europe Dynamic B (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0129450945",
+          "FundName": "JPM Europe Dynamic C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822043773",
+          "FundName": "JPM Europe Dynamic C (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0119063039",
+          "FundName": "JPM Europe Dynamic D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0190961812",
+          "FundName": "JPM Europe Dynamic D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248045857",
+          "FundName": "JPM Europe Dynamic I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210072939",
+          "FundName": "JPM Europe Dynamic Small Cap A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210073408",
+          "FundName": "JPM Europe Dynamic Small Cap A (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0847327532",
+          "FundName": "JPM Europe Dynamic Small Cap B (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0982213018",
+          "FundName": "JPM Europe Dynamic Small Cap C (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0210075874",
+          "FundName": "JPM Europe Dynamic Small Cap D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1140852192",
+          "FundName": "JPM Europe Dynamic Small Cap I (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210530746",
+          "FundName": "JPM Europe Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0119078227",
+          "FundName": "JPM Europe Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0053685029",
+          "FundName": "JPM Europe Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117904960",
+          "FundName": "JPMorgan Europe Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU1001747408",
+          "FundName": "JPM Europe Equity Absolute Alpha A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1112015109",
+          "FundName": "JPM Europe Equity Absolute Alpha A (perf) (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU1001747820",
+          "FundName": "JPM Europe Equity Absolute Alpha A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU1176911953",
+          "FundName": "JPM Europe Equity Absolute Alpha A (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU1021316143",
+          "FundName": "JPM Europe Equity Absolute Alpha B (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU1001748398",
+          "FundName": "JPM Europe Equity Absolute Alpha C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1001748638",
+          "FundName": "JPM Europe Equity Absolute Alpha C (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU1092523874",
+          "FundName": "JPM Europe Equity Absolute Alpha C (perf) (dist) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0129440714",
+          "FundName": "JPM Europe Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0997536098",
+          "FundName": "JPM Europe Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU1048653056",
+          "FundName": "JPM Europe Equity B (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0847327615",
+          "FundName": "JPM Europe Equity B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129441100",
+          "FundName": "JPM Europe Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822044151",
+          "FundName": "JPM Europe Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117858596",
+          "FundName": "JPM Europe Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0259069697",
+          "FundName": "JPM Europe Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289089384",
+          "FundName": "JPM Europe Equity Plus A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336375786",
+          "FundName": "JPM Europe Equity Plus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289228842",
+          "FundName": "JPM Europe Equity Plus A (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0289230079",
+          "FundName": "JPM Europe Equity Plus A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0289214461",
+          "FundName": "JPM Europe Equity Plus B (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1046624042",
+          "FundName": "JPM Europe Equity Plus B (perf) (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0847326567",
+          "FundName": "JPM Europe Equity Plus B (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0289214545",
+          "FundName": "JPM Europe Equity Plus C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822043260",
+          "FundName": "JPM Europe Equity Plus C (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0289214628",
+          "FundName": "JPM Europe Equity Plus D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336375869",
+          "FundName": "JPM Europe Equity Plus D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289214974",
+          "FundName": "JPM Europe Equity Plus X (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0143811718",
+          "FundName": "JPM Europe Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0225507994",
+          "FundName": "JPM Europe Focus A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336375273",
+          "FundName": "JPM Europe Focus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0169524351",
+          "FundName": "JPM Europe Focus A (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0847327706",
+          "FundName": "JPM Europe Focus B (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0169525168",
+          "FundName": "JPM Europe Focus C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0169525671",
+          "FundName": "JPM Europe Focus D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336375356",
+          "FundName": "JPM Europe Focus D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0169525754",
+          "FundName": "JPM Europe Focus X (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "GB0030879141",
+          "FundName": "JPM Europe Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMTB32",
+          "FundName": "JPM Europe Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YX5K62",
+          "FundName": "JPM Europe Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YX6R07",
+          "FundName": "JPM Europe Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235HP90",
+          "FundName": "JPM Europe Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235HR15",
+          "FundName": "JPM Europe Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B5LLXT60",
+          "FundName": "JPM Europe Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0210531470",
+          "FundName": "JPM Europe High Yield Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0091079839",
+          "FundName": "JPM Europe High Yield Bond A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0159054765",
+          "FundName": "JPM Europe High Yield Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0846584216",
+          "FundName": "JPM Europe High Yield Bond B (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0159054922",
+          "FundName": "JPM Europe High Yield Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117897578",
+          "FundName": "JPM Europe High Yield Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0159055499",
+          "FundName": "JPM Europe High Yield Bond X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0673243829",
+          "FundName": "JPM Europe Research Enhanced Index Equity C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0959609958",
+          "FundName": "JPM Europe Research Enhanced Index Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0079556006",
+          "FundName": "JPM Europe Select Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0337330384",
+          "FundName": "JPM Europe Select Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248026808",
+          "FundName": "JPM Europe Select Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0079556188",
+          "FundName": "JPM Europe Select Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0083307867",
+          "FundName": "JPM Europe Select Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0864198402",
+          "FundName": "JPM Europe Select Equity C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0159405223",
+          "FundName": "JPM Europe Select Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0337332836",
+          "FundName": "JPM Europe Select Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247995813",
+          "FundName": "JPM Europe Select Equity I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0281486075",
+          "FundName": "JPM Europe Select Equity Plus A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336375430",
+          "FundName": "JPM Europe Select Equity Plus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0322980367",
+          "FundName": "JPM Europe Select Equity Plus A (perf) (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0281486232",
+          "FundName": "JPM Europe Select Equity Plus A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0281486588",
+          "FundName": "JPM Europe Select Equity Plus D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0085149507",
+          "FundName": "JPM Europe Select Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210531637",
+          "FundName": "JPM Europe Small Cap A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0053687074",
+          "FundName": "JPM Europe Small Cap A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117905421",
+          "FundName": "JPMorgan Europe Small Cap A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0119093531",
+          "FundName": "JPM Europe Small Cap A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0129451919",
+          "FundName": "JPM Europe Small Cap B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847328183",
+          "FundName": "JPM Europe Small Cap B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129456397",
+          "FundName": "JPM Europe Small Cap C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117859560",
+          "FundName": "JPM Europe Small Cap D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0248047986",
+          "FundName": "JPM Europe Small Cap I (acc) - EUR"
+        },
+        {
+          "ISIN": "GB0030881006",
+          "FundName": "JPM Europe Smaller Companies Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMT248",
+          "FundName": "JPM Europe Smaller Companies Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B2359B97",
+          "FundName": "JPM Europe Smaller Companies Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B5SDTW07",
+          "FundName": "JPM Europe Smaller Companies Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B83T7Q40",
+          "FundName": "JPM Europe Smaller Companies Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0030881337",
+          "FundName": "JPM Europe Smaller Companies Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0169527297",
+          "FundName": "JPM Europe Strategic Dividend A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0247987802",
+          "FundName": "JPM Europe Strategic Dividend A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0289478959",
+          "FundName": "JPM Europe Strategic Dividend A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0169527966",
+          "FundName": "JPM Europe Strategic Dividend B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0828224377",
+          "FundName": "JPM Europe Strategic Dividend B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0169528188",
+          "FundName": "JPM Europe Strategic Dividend C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1195286585",
+          "FundName": "JPM Europe Strategic Dividend C (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0821049177",
+          "FundName": "JPM Europe Strategic Dividend C (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0864198667",
+          "FundName": "JPM Europe Strategic Dividend C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0169528261",
+          "FundName": "JPM Europe Strategic Dividend D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0247994923",
+          "FundName": "JPM Europe Strategic Dividend I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0169528428",
+          "FundName": "JPM Europe Strategic Dividend X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0900384941",
+          "FundName": "JPM Europe Strategic Dividend X (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0210531801",
+          "FundName": "JPM Europe Strategic Growth A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0107398538",
+          "FundName": "JPM Europe Strategic Growth A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0119091675",
+          "FundName": "JPM Europe Strategic Growth A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0129442843",
+          "FundName": "JPM Europe Strategic Growth B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847328340",
+          "FundName": "JPM Europe Strategic Growth B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129443577",
+          "FundName": "JPM Europe Strategic Growth C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117858679",
+          "FundName": "JPM Europe Strategic Growth D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210531983",
+          "FundName": "JPM Europe Strategic Value A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0107398884",
+          "FundName": "JPM Europe Strategic Value A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0119092640",
+          "FundName": "JPM Europe Strategic Value A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0129444468",
+          "FundName": "JPM Europe Strategic Value B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0828466382",
+          "FundName": "JPM Europe Strategic Value B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129445192",
+          "FundName": "JPM Europe Strategic Value C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117858752",
+          "FundName": "JPM Europe Strategic Value D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210532015",
+          "FundName": "JPM Europe Technology A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0104030142",
+          "FundName": "JPM Europe Technology A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117906742",
+          "FundName": "JPMorgan Europe Technology A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0119095668",
+          "FundName": "JPM Europe Technology A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0129494562",
+          "FundName": "JPM Europe Technology B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847328779",
+          "FundName": "JPM Europe Technology B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129494729",
+          "FundName": "JPM Europe Technology C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822045042",
+          "FundName": "JPM Europe Technology C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0117884675",
+          "FundName": "JPM Europe Technology D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0697242724",
+          "FundName": "JPM Financials Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0697243029",
+          "FundName": "JPM Financials Bond A (inc) - EUR"
+        },
+        {
+          "ISIN": "GB00B83DSL87",
+          "FundName": "JPM Fusion Balanced Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B4P99N51",
+          "FundName": "JPM Fusion Balanced Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B892QH10",
+          "FundName": "JPM Fusion Balanced Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7SGT452",
+          "FundName": "JPM Fusion Balanced Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7XBHR43",
+          "FundName": "JPM Fusion Balanced Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B8FD5N73",
+          "FundName": "JPM Fusion Conservative Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8FGKN14",
+          "FundName": "JPM Fusion Conservative Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B8FK9929",
+          "FundName": "JPM Fusion Conservative Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B89YRL87",
+          "FundName": "JPM Fusion Conservative Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8BCLD05",
+          "FundName": "JPM Fusion Conservative Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B89L1623",
+          "FundName": "JPM Fusion Growth Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B803V230",
+          "FundName": "JPM Fusion Growth Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B87YNP63",
+          "FundName": "JPM Fusion Growth Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8BBM908",
+          "FundName": "JPM Fusion Growth Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B45QJ927",
+          "FundName": "JPM Fusion Growth Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B7RGQM32",
+          "FundName": "JPM Fusion Growth Plus Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7N32J72",
+          "FundName": "JPM Fusion Growth Plus Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B4050464",
+          "FundName": "JPM Fusion Growth Plus Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8259C37",
+          "FundName": "JPM Fusion Growth Plus Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B61KBT69",
+          "FundName": "JPM Fusion Growth Plus Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B8FF4Z83",
+          "FundName": "JPM Fusion Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8FFX394",
+          "FundName": "JPM Fusion Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B8FK7Z49",
+          "FundName": "JPM Fusion Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8FD4G32",
+          "FundName": "JPM Fusion Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B8FD1T55",
+          "FundName": "JPM Fusion Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8FD2C53",
+          "FundName": "JPM Fusion Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0210532791",
+          "FundName": "JPM Germany Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0111753843",
+          "FundName": "JPM Germany Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117905850",
+          "FundName": "JPMorgan Germany Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129457957",
+          "FundName": "JPM Germany Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847328936",
+          "FundName": "JPM Germany Equity B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129458179",
+          "FundName": "JPM Germany Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822045125",
+          "FundName": "JPM Germany Equity C (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0117860493",
+          "FundName": "JPM Germany Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0143832128",
+          "FundName": "JPM Germany Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "GB0030877327",
+          "FundName": "JPM Global (ex-UK) Bond Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0030877210",
+          "FundName": "JPM Global (ex-UK) Bond Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXR445",
+          "FundName": "JPM Global (ex-UK) Bond Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B5B72191",
+          "FundName": "JPM Global (ex-UK) Bond Fund C - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B235J081",
+          "FundName": "JPM Global (ex-UK) Bond Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235J198",
+          "FundName": "JPM Global (ex-UK) Bond Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B1KVJ353",
+          "FundName": "JPM Global (ex-UK) Bond Fund I - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB0031835449",
+          "FundName": "JPM Global (ex-UK) Bond Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0031834814",
+          "FundName": "JPM Global (ex-UK) Bond Fund I - Net Income"
+        },
+        {
+          "ISIN": "LU0538891820",
+          "FundName": "JPM Global Absolute Return Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0538891663",
+          "FundName": "JPM Global Absolute Return Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0538893107",
+          "FundName": "JPM Global Absolute Return Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0538892984",
+          "FundName": "JPM Global Absolute Return Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "LU1190949419",
+          "FundName": "JPM Global Absolute Return Bond X (inc) - USD"
+        },
+        {
+          "ISIN": "LU0210533179",
+          "FundName": "JPM Global Aggregate Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0053696067",
+          "FundName": "JPM Global Aggregate Bond A (inc) - USD"
+        },
+        {
+          "ISIN": "LU0117896927",
+          "FundName": "JPM Global Aggregate Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "GB00BH7J0758",
+          "FundName": "JPM Global Allocation Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BH7J0642",
+          "FundName": "JPM Global Allocation Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00BH7J0972",
+          "FundName": "JPM Global Allocation Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BH7J0C08",
+          "FundName": "JPM Global Allocation Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BH7J0B90",
+          "FundName": "JPM Global Allocation Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0070212591",
+          "FundName": "JPM Global Balanced A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0957039414",
+          "FundName": "JPM Global Balanced A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0247991317",
+          "FundName": "JPM Global Balanced A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0070212831",
+          "FundName": "JPM Global Balanced B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0957039760",
+          "FundName": "JPM Global Balanced B (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0848064712",
+          "FundName": "JPM Global Balanced B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0079555370",
+          "FundName": "JPM Global Balanced C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0957039927",
+          "FundName": "JPM Global Balanced C (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0115099839",
+          "FundName": "JPM Global Balanced D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0957040008",
+          "FundName": "JPM Global Balanced D (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0890597635",
+          "FundName": "JPM Global Bond Opportunities A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0867954264",
+          "FundName": "JPM Global Bond Opportunities A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0867954348",
+          "FundName": "JPM Global Bond Opportunities B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0890597809",
+          "FundName": "JPM Global Bond Opportunities C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0867954421",
+          "FundName": "JPM Global Bond Opportunities C (acc) - USD"
+        },
+        {
+          "ISIN": "GB00BV9GHS23",
+          "FundName": "JPM Global Bond Opportunities Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BV9GHR16",
+          "FundName": "JPM Global Bond Opportunities Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00BV9GHV51",
+          "FundName": "JPM Global Bond Opportunities Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BV9GHZ99",
+          "FundName": "JPM Global Bond Opportunities Fund C - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00BV9GHY82",
+          "FundName": "JPM Global Bond Opportunities Fund C - Gross Income"
+        },
+        {
+          "ISIN": "GB00BV9GHX75",
+          "FundName": "JPM Global Bond Opportunities Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BV9GHW68",
+          "FundName": "JPM Global Bond Opportunities Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0867954777",
+          "FundName": "JPM Global Bond Opportunities I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0095938881",
+          "FundName": "JPM Global Capital Appreciation A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1181866309",
+          "FundName": "JPM Global Capital Appreciation A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0247991580",
+          "FundName": "JPM Global Capital Appreciation A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0247992398",
+          "FundName": "JPM Global Capital Appreciation A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0095939343",
+          "FundName": "JPM Global Capital Appreciation B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0095623541",
+          "FundName": "JPM Global Capital Appreciation C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0115098948",
+          "FundName": "JPM Global Capital Appreciation D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0235842555",
+          "FundName": "JPM Global Capital Preservation (USD) A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0235843108",
+          "FundName": "JPM Global Capital Preservation (USD) D (acc) - USD"
+        },
+        {
+          "ISIN": "LU1191862694",
+          "FundName": "JPM Global Capital Structure Opportunities A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU1191863239",
+          "FundName": "JPM Global Capital Structure Opportunities C (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU1156186873",
+          "FundName": "JPM Global Capital Structure Opportunities C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0070211940",
+          "FundName": "JPM Global Conservative Balanced A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0218006517",
+          "FundName": "JPM Global Conservative Balanced A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247991663",
+          "FundName": "JPM Global Conservative Balanced A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0247992638",
+          "FundName": "JPM Global Conservative Balanced A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0070212328",
+          "FundName": "JPM Global Conservative Balanced B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0848065289",
+          "FundName": "JPM Global Conservative Balanced B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0079555297",
+          "FundName": "JPM Global Conservative Balanced C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0115711235",
+          "FundName": "JPM Global Conservative Balanced D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0085142247",
+          "FundName": "JPM Global Conservative Balanced X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210533500",
+          "FundName": "JPM Global Convertibles (EUR) A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129412341",
+          "FundName": "JPM Global Convertibles (EUR) A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0397083378",
+          "FundName": "JPM Global Convertibles (EUR) A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0129952296",
+          "FundName": "JPMorgan Global Convertibles (EUR) A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129414396",
+          "FundName": "JPM Global Convertibles (EUR) B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847329157",
+          "FundName": "JPM Global Convertibles (EUR) B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0632832159",
+          "FundName": "JPM Global Convertibles (EUR) B (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0129415286",
+          "FundName": "JPM Global Convertibles (EUR) C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0822045554",
+          "FundName": "JPM Global Convertibles (EUR) C (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0397083535",
+          "FundName": "JPM Global Convertibles (EUR) C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0822045638",
+          "FundName": "JPM Global Convertibles (EUR) C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129412937",
+          "FundName": "JPM Global Convertibles (EUR) D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0248061979",
+          "FundName": "JPM Global Convertibles (EUR) I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0248062357",
+          "FundName": "JPM Global Convertibles (EUR) I (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0143832805",
+          "FundName": "JPM Global Convertibles (EUR) X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0641480529",
+          "FundName": "JPM Global Convertibles (EUR) X (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0194732953",
+          "FundName": "JPM Global Convertibles (USD) A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0194727953",
+          "FundName": "JPMorgan Global Convertibles (USD) A (acc) - USD"
+        },
+        {
+          "ISIN": "LU1038913379",
+          "FundName": "JPM Global Convertibles (USD) A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0194460696",
+          "FundName": "JPM Global Convertibles (USD) B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0194461744",
+          "FundName": "JPM Global Convertibles (USD) C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0194465067",
+          "FundName": "JPM Global Convertibles (USD) D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248013657",
+          "FundName": "JPM Global Convertibles (USD) I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0194465810",
+          "FundName": "JPM Global Convertibles (USD) X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0408846458",
+          "FundName": "JPM Global Corporate Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0408846375",
+          "FundName": "JPM Global Corporate Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0423858678",
+          "FundName": "JPM Global Corporate Bond A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0814389432",
+          "FundName": "JPM Global Corporate Bond A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0620851005",
+          "FundName": "JPM Global Corporate Bond B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0408846532",
+          "FundName": "JPM Global Corporate Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847329231",
+          "FundName": "JPM Global Corporate Bond B (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0439179432",
+          "FundName": "JPM Global Corporate Bond C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0408846615",
+          "FundName": "JPM Global Corporate Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0621513745",
+          "FundName": "JPM Global Corporate Bond C (acc) - USD - Duration (hedged)"
+        },
+        {
+          "ISIN": "LU0773641450",
+          "FundName": "JPM Global Corporate Bond C (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0423858918",
+          "FundName": "JPM Global Corporate Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0915158652",
+          "FundName": "JPM Global Corporate Bond C (dist) - GBP (hedged) & Duration (hedged)"
+        },
+        {
+          "ISIN": "LU0815276950",
+          "FundName": "JPM Global Corporate Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0408846961",
+          "FundName": "JPM Global Corporate Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0408846706",
+          "FundName": "JPM Global Corporate Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0408847183",
+          "FundName": "JPM Global Corporate Bond I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0854410783",
+          "FundName": "JPM Global Corporate Bond X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0893604982",
+          "FundName": "JPM Global Corporate Bond X (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0900194142",
+          "FundName": "JPM Global Corporate Bond X (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0469576366",
+          "FundName": "JPM Global Credit Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0469576283",
+          "FundName": "JPM Global Credit Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0469576440",
+          "FundName": "JPM Global Credit Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0469576879",
+          "FundName": "JPM Global Credit Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0788426103",
+          "FundName": "JPM Global Developing Trends A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0788426798",
+          "FundName": "JPM Global Developing Trends B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0329202252",
+          "FundName": "JPM Global Dividend A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0329202419",
+          "FundName": "JPM Global Dividend A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0329201957",
+          "FundName": "JPM Global Dividend A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0329202500",
+          "FundName": "JPM Global Dividend A (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0329202179",
+          "FundName": "JPM Global Dividend A (inc) - USD"
+        },
+        {
+          "ISIN": "LU0647154961",
+          "FundName": "JPM Global Dividend B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0329203144",
+          "FundName": "JPM Global Dividend C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0329203656",
+          "FundName": "JPM Global Dividend D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0329203490",
+          "FundName": "JPM Global Dividend D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0159040202",
+          "FundName": "JPM Global Dynamic A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289216243",
+          "FundName": "JPM Global Dynamic A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210533419",
+          "FundName": "JPM Global Dynamic A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119090438",
+          "FundName": "JPM Global Dynamic A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0119067295",
+          "FundName": "JPM Global Dynamic A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0143906690",
+          "FundName": "JPMorgan Global Dynamic A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0248033333",
+          "FundName": "JPM Global Dynamic A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0129436522",
+          "FundName": "JPM Global Dynamic B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847329660",
+          "FundName": "JPM Global Dynamic B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0243499265",
+          "FundName": "JPM Global Dynamic C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289216326",
+          "FundName": "JPM Global Dynamic C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129436878",
+          "FundName": "JPM Global Dynamic C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822045711",
+          "FundName": "JPM Global Dynamic C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0159041358",
+          "FundName": "JPM Global Dynamic D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289216599",
+          "FundName": "JPM Global Dynamic D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0119067378",
+          "FundName": "JPM Global Dynamic D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0629703918",
+          "FundName": "JPM Global Dynamic I (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0248051400",
+          "FundName": "JPM Global Dynamic I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248051665",
+          "FundName": "JPM Global Dynamic I (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0693821935",
+          "FundName": "JPM Global Dynamic X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0143833365",
+          "FundName": "JPM Global Dynamic X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0030877871",
+          "FundName": "JPM Global Equity Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMTN53",
+          "FundName": "JPM Global Equity Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YX7T95",
+          "FundName": "JPM Global Equity Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YX7Z55",
+          "FundName": "JPM Global Equity Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235QT61",
+          "FundName": "JPM Global Equity Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B71SRV18",
+          "FundName": "JPM Global Equity Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B6TPLD77",
+          "FundName": "JPM Global Equity Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1JNDX07",
+          "FundName": "JPM Global Equity Income Fund A - Net Accumulation (GBP hedged)"
+        },
+        {
+          "ISIN": "GB00B6X84P54",
+          "FundName": "JPM Global Equity Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1JNDZ21",
+          "FundName": "JPM Global Equity Income Fund A - Net Income (GBP hedged)"
+        },
+        {
+          "ISIN": "GB00B1YX7005",
+          "FundName": "JPM Global Equity Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YX7336",
+          "FundName": "JPM Global Equity Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235J206",
+          "FundName": "JPM Global Equity Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8DB5B19",
+          "FundName": "JPM Global Equity Income Fund C - Net Accumulation (GBP hedged)"
+        },
+        {
+          "ISIN": "GB00B78FJ533",
+          "FundName": "JPM Global Equity Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B235J313",
+          "FundName": "JPM Global Equity Income Fund C - Net Income (GBP hedged)"
+        },
+        {
+          "ISIN": "GB00B1JNF012",
+          "FundName": "JPM Global Equity Income Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0157186924",
+          "FundName": "JPM Global Financials A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0115528548",
+          "FundName": "JPM Global Financials A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247983728",
+          "FundName": "JPM Global Financials A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0861978558",
+          "FundName": "JPM Global Financials B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0115530106",
+          "FundName": "JPM Global Financials B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0115530361",
+          "FundName": "JPM Global Financials C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0821049508",
+          "FundName": "JPM Global Financials C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0115104696",
+          "FundName": "JPM Global Financials D (acc) - USD"
+        },
+        {
+          "ISIN": "GB0030877103",
+          "FundName": "JPM Global Financials Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMTK23",
+          "FundName": "JPM Global Financials Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YX7H73",
+          "FundName": "JPM Global Financials Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YX7Q64",
+          "FundName": "JPM Global Financials Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235QL85",
+          "FundName": "JPM Global Financials Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235QP24",
+          "FundName": "JPM Global Financials Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0210534227",
+          "FundName": "JPM Global Focus A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289215948",
+          "FundName": "JPM Global Focus A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0168341575",
+          "FundName": "JPM Global Focus A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0168342896",
+          "FundName": "JPMorgan Global Focus A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0168342979",
+          "FundName": "JPM Global Focus B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847330080",
+          "FundName": "JPM Global Focus B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0935941772",
+          "FundName": "JPM Global Focus B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0168343191",
+          "FundName": "JPM Global Focus C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289216086",
+          "FundName": "JPM Global Focus C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0501950314",
+          "FundName": "JPM Global Focus C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0168343274",
+          "FundName": "JPM Global Focus D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289216169",
+          "FundName": "JPM Global Focus D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0248053109",
+          "FundName": "JPM Global Focus I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0168343431",
+          "FundName": "JPM Global Focus X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0406674076",
+          "FundName": "JPM Global Government Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0406674159",
+          "FundName": "JPM Global Government Bond A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0406674233",
+          "FundName": "JPM Global Government Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0406674407",
+          "FundName": "JPM Global Government Bond C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0406674589",
+          "FundName": "JPM Global Government Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0406674746",
+          "FundName": "JPM Global Government Bond X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408876448",
+          "FundName": "JPM Global Government Short Duration Bond A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408876521",
+          "FundName": "JPM Global Government Short Duration Bond A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0408876794",
+          "FundName": "JPM Global Government Short Duration Bond B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0413109793",
+          "FundName": "JPM Global Government Short Duration Bond C (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0457775293",
+          "FundName": "JPM Global Government Short Duration Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0408876950",
+          "FundName": "JPM Global Government Short Duration Bond D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0408877099",
+          "FundName": "JPM Global Government Short Duration Bond D (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0880062913",
+          "FundName": "JPM Global Healthcare A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0432979614",
+          "FundName": "JPM Global Healthcare A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0432979531",
+          "FundName": "JPM Global Healthcare A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0432979374",
+          "FundName": "JPM Global Healthcare A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0432979457",
+          "FundName": "JPMorgan Global Healthcare A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0897034418",
+          "FundName": "JPM Global Healthcare A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU1048171810",
+          "FundName": "JPM Global Healthcare B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0432979705",
+          "FundName": "JPM Global Healthcare B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847330163",
+          "FundName": "JPM Global Healthcare B (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0847330247",
+          "FundName": "JPM Global Healthcare B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0432979887",
+          "FundName": "JPM Global Healthcare C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0945067352",
+          "FundName": "JPM Global Healthcare C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0432979960",
+          "FundName": "JPM Global Healthcare D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0108415935",
+          "FundName": "JPM Global High Yield Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0344579056",
+          "FundName": "JPM Global High Yield Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0804487329",
+          "FundName": "JPM Global High Yield Bond A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0247993289",
+          "FundName": "JPM Global High Yield Bond A (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0108416156",
+          "FundName": "JPM Global High Yield Bond B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0654543270",
+          "FundName": "JPM Global High Yield Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0108416313",
+          "FundName": "JPM Global High Yield Bond C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0344579213",
+          "FundName": "JPM Global High Yield Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0864198071",
+          "FundName": "JPM Global High Yield Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0783540387",
+          "FundName": "JPM Global High Yield Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0821049680",
+          "FundName": "JPM Global High Yield Bond C (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0115103029",
+          "FundName": "JPM Global High Yield Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0344579569",
+          "FundName": "JPM Global High Yield Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "GB0008350976",
+          "FundName": "JPM Global High Yield Bond Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0008350869",
+          "FundName": "JPM Global High Yield Bond Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00BGP6KW62",
+          "FundName": "JPM Global High Yield Bond Fund A Monthly - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXBH57",
+          "FundName": "JPM Global High Yield Bond Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXBL93",
+          "FundName": "JPM Global High Yield Bond Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00BGP6KX79",
+          "FundName": "JPM Global High Yield Bond Fund B Monthly - Net Income"
+        },
+        {
+          "ISIN": "GB00B76G8067",
+          "FundName": "JPM Global High Yield Bond Fund C - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B3XDZP60",
+          "FundName": "JPM Global High Yield Bond Fund C - Gross Income"
+        },
+        {
+          "ISIN": "GB00B235QY15",
+          "FundName": "JPM Global High Yield Bond Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235R159",
+          "FundName": "JPM Global High Yield Bond Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00BGP6KY86",
+          "FundName": "JPM Global High Yield Bond Fund C Monthly - Net Income"
+        },
+        {
+          "ISIN": "GB00B1KVJ577",
+          "FundName": "JPM Global High Yield Bond Fund I - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B1KVJ791",
+          "FundName": "JPM Global High Yield Bond Fund I - Gross Income"
+        },
+        {
+          "ISIN": "GB00B014HF40",
+          "FundName": "JPM Global High Yield Bond Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B014HG56",
+          "FundName": "JPM Global High Yield Bond Fund I - Net Income"
+        },
+        {
+          "ISIN": "GB00B23W5125",
+          "FundName": "JPM Global High Yield Bond Fund X - Gross Accumulation"
+        },
+        {
+          "ISIN": "LU0468140883",
+          "FundName": "JPM Global High Yield Bond I (acc) - USD"
+        },
+        {
+          "ISIN": "LU1246239369",
+          "FundName": "JPM Global High Yield Bond I (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0248018532",
+          "FundName": "JPM Global High Yield Bond I (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0108416404",
+          "FundName": "JPM Global High Yield Bond X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0457776424",
+          "FundName": "JPM Global High Yield Bond X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0740858229",
+          "FundName": "JPM Global Income A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1198459122",
+          "FundName": "JPM Global Income A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0840466477",
+          "FundName": "JPM Global Income A (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0975606418",
+          "FundName": "JPM Global Income B (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0782316961",
+          "FundName": "JPM Global Income C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0599212585",
+          "FundName": "JPM Global Merger Arbitrage A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0599212403",
+          "FundName": "JPM Global Merger Arbitrage A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0599212668",
+          "FundName": "JPM Global Merger Arbitrage A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0599212742",
+          "FundName": "JPM Global Merger Arbitrage B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0668019770",
+          "FundName": "JPM Global Merger Arbitrage B (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0599212825",
+          "FundName": "JPM Global Merger Arbitrage C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0626067895",
+          "FundName": "JPM Global Merger Arbitrage C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0208853274",
+          "FundName": "JPM Global Natural Resources A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0900828681",
+          "FundName": "JPM Global Natural Resources A (acc) - GBP"
+        },
+        {
+          "ISIN": "LU0266512127",
+          "FundName": "JPM Global Natural Resources A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0208853514",
+          "FundName": "JPM Global Natural Resources A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0208853787",
+          "FundName": "JPM Global Natural Resources B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0935941855",
+          "FundName": "JPM Global Natural Resources B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847330320",
+          "FundName": "JPM Global Natural Resources B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0208853860",
+          "FundName": "JPM Global Natural Resources C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0266512473",
+          "FundName": "JPM Global Natural Resources C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0208853944",
+          "FundName": "JPM Global Natural Resources D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0266512630",
+          "FundName": "JPM Global Natural Resources D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248052804",
+          "FundName": "JPM Global Natural Resources I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0208854082",
+          "FundName": "JPM Global Natural Resources X (acc) - EUR"
+        },
+        {
+          "ISIN": "GB00B19HGH74",
+          "FundName": "JPM Global Property Securities Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B19HGG67",
+          "FundName": "JPM Global Property Securities Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXBY23",
+          "FundName": "JPM Global Property Securities Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235R373",
+          "FundName": "JPM Global Property Securities Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235R605",
+          "FundName": "JPM Global Property Securities Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B19HGL11",
+          "FundName": "JPM Global Property Securities Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B19HGM28",
+          "FundName": "JPM Global Property Securities Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0258924702",
+          "FundName": "JPM Global Real Estate Securities (USD) A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0258923563",
+          "FundName": "JPM Global Real Estate Securities (USD) A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0336377568",
+          "FundName": "JPM Global Real Estate Securities (USD) A (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0336377642",
+          "FundName": "JPM Global Real Estate Securities (USD) B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0258924884",
+          "FundName": "JPM Global Real Estate Securities (USD) B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0258925188",
+          "FundName": "JPM Global Real Estate Securities (USD) C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0336377998",
+          "FundName": "JPM Global Real Estate Securities (USD) D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0258925428",
+          "FundName": "JPM Global Real Estate Securities (USD) D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0336378459",
+          "FundName": "JPM Global Real Estate Securities (USD) X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0258925774",
+          "FundName": "JPM Global Real Estate Securities (USD) X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0512952267",
+          "FundName": "JPM Global Research Enhanced Index Equity C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0719735499",
+          "FundName": "JPM Global Research Enhanced Index Equity C (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0891038514",
+          "FundName": "JPM Global Research Enhanced Index Equity C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU1125675006",
+          "FundName": "JPM Global Research Enhanced Index Equity X (acc) - GBP"
+        },
+        {
+          "ISIN": "LU0512953828",
+          "FundName": "JPM Global Research Enhanced Index Equity X (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1220258963",
+          "FundName": "JPM Global Research Enhanced Index Equity X (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0157178582",
+          "FundName": "JPM Global Select Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0070217475",
+          "FundName": "JPM Global Select Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247984379",
+          "FundName": "JPM Global Select Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0070217715",
+          "FundName": "JPM Global Select Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0611475780",
+          "FundName": "JPM Global Select Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0088300024",
+          "FundName": "JPM Global Select Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0115085028",
+          "FundName": "JPM Global Select Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0088298020",
+          "FundName": "JPM Global Select Equity Plus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247983561",
+          "FundName": "JPM Global Select Equity Plus A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0088298533",
+          "FundName": "JPM Global Select Equity Plus C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0115096223",
+          "FundName": "JPM Global Select Equity Plus D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0085144706",
+          "FundName": "JPM Global Select Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0430494962",
+          "FundName": "JPM Global Short Duration Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430494889",
+          "FundName": "JPM Global Short Duration Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0564089323",
+          "FundName": "JPM Global Short Duration Bond B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430495001",
+          "FundName": "JPM Global Short Duration Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0430495266",
+          "FundName": "JPM Global Short Duration Bond C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430495183",
+          "FundName": "JPM Global Short Duration Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0942573527",
+          "FundName": "JPM Global Short Duration Bond C (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0457772431",
+          "FundName": "JPM Global Short Duration Bond C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0942649368",
+          "FundName": "JPM Global Short Duration Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0430495423",
+          "FundName": "JPM Global Short Duration Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0654526853",
+          "FundName": "JPM Global Short Duration Bond X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0430495779",
+          "FundName": "JPM Global Short Duration Bond X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0626448855",
+          "FundName": "JPM Global Short Duration Bond X (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0210534813",
+          "FundName": "JPM Global Socially Responsible A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0111753769",
+          "FundName": "JPM Global Socially Responsible A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117882547",
+          "FundName": "JPM Global Socially Responsible D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0514679652",
+          "FundName": "JPM Global Strategic Bond A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU1008526839",
+          "FundName": "JPM Global Strategic Bond A (perf) (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0514679140",
+          "FundName": "JPM Global Strategic Bond A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0584424708",
+          "FundName": "JPM Global Strategic Bond B (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0514679736",
+          "FundName": "JPM Global Strategic Bond B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0707697271",
+          "FundName": "JPM Global Strategic Bond B (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0707697438",
+          "FundName": "JPM Global Strategic Bond B (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU1193799209",
+          "FundName": "JPM Global Strategic Bond C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0587803247",
+          "FundName": "JPM Global Strategic Bond C (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0514679819",
+          "FundName": "JPM Global Strategic Bond C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0777682112",
+          "FundName": "JPM Global Strategic Bond C (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0514680072",
+          "FundName": "JPM Global Strategic Bond D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0558373097",
+          "FundName": "JPM Global Strategic Bond X (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0514680312",
+          "FundName": "JPM Global Strategic Bond X (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0159032522",
+          "FundName": "JPM Global Unconstrained Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336376081",
+          "FundName": "JPM Global Unconstrained Equity A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210533765",
+          "FundName": "JPM Global Unconstrained Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0336376248",
+          "FundName": "JPM Global Unconstrained Equity A (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0089639750",
+          "FundName": "JPM Global Unconstrained Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117906312",
+          "FundName": "JPMorgan Global Unconstrained Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0336376750",
+          "FundName": "JPM Global Unconstrained Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129435714",
+          "FundName": "JPM Global Unconstrained Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0336376834",
+          "FundName": "JPM Global Unconstrained Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0336376917",
+          "FundName": "JPM Global Unconstrained Equity C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129435805",
+          "FundName": "JPM Global Unconstrained Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0336377055",
+          "FundName": "JPM Global Unconstrained Equity D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0117881903",
+          "FundName": "JPM Global Unconstrained Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0344547368",
+          "FundName": "JPM Global Unconstrained Equity X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0344547525",
+          "FundName": "JPM Global Unconstrained Equity X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0143835147",
+          "FundName": "JPM Global Unconstrained Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210526801",
+          "FundName": "JPMorgan Greater China A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117841782",
+          "FundName": "JPMorgan Greater China A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129483797",
+          "FundName": "JPMorgan Greater China B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847322814",
+          "FundName": "JPMorgan Greater China B (dist) - USD"
+        },
+        {
+          "ISIN": "LU1106505156",
+          "FundName": "JPMorgan Greater China C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129484258",
+          "FundName": "JPMorgan Greater China C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822046958",
+          "FundName": "JPMorgan Greater China C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0522352946",
+          "FundName": "JPMorgan Greater China D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117841949",
+          "FundName": "JPMorgan Greater China D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248053877",
+          "FundName": "JPMorgan Greater China I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0325073012",
+          "FundName": "JPM Highbridge Europe STEEP A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325073368",
+          "FundName": "JPM Highbridge Europe STEEP A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0325073285",
+          "FundName": "JPM Highbridge Europe STEEP A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0325073103",
+          "FundName": "JPM Highbridge Europe STEEP A (perf) (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0325073525",
+          "FundName": "JPM Highbridge Europe STEEP B (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325073871",
+          "FundName": "JPM Highbridge Europe STEEP C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325073954",
+          "FundName": "JPM Highbridge Europe STEEP D (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325074093",
+          "FundName": "JPM Highbridge Europe STEEP I (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325074507",
+          "FundName": "JPM Highbridge US STEEP A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325074689",
+          "FundName": "JPM Highbridge US STEEP A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0325074259",
+          "FundName": "JPM Highbridge US STEEP A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0325074416",
+          "FundName": "JPM Highbridge US STEEP A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0985483196",
+          "FundName": "JPM Highbridge US STEEP A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0325074333",
+          "FundName": "JPM Highbridge US STEEP A (perf) (inc) - EUR"
+        },
+        {
+          "ISIN": "LU0325074762",
+          "FundName": "JPM Highbridge US STEEP B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847330759",
+          "FundName": "JPM Highbridge US STEEP B (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0325074929",
+          "FundName": "JPM Highbridge US STEEP C (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0325075066",
+          "FundName": "JPM Highbridge US STEEP C (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU1165523538",
+          "FundName": "JPM Highbridge US STEEP C (perf) (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0325074846",
+          "FundName": "JPM Highbridge US STEEP C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0848450945",
+          "FundName": "JPM Highbridge US STEEP C (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0647025302",
+          "FundName": "JPM Highbridge US STEEP C (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0325075579",
+          "FundName": "JPM Highbridge US STEEP D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0325075496",
+          "FundName": "JPM Highbridge US STEEP D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0325075652",
+          "FundName": "JPM Highbridge US STEEP I (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0325075736",
+          "FundName": "JPM Highbridge US STEEP X (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0626448269",
+          "FundName": "JPM Highbridge US STEEP X (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0210526983",
+          "FundName": "JPMorgan Hong Kong A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117842087",
+          "FundName": "JPMorgan Hong Kong A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129484415",
+          "FundName": "JPMorgan Hong Kong B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0129484761",
+          "FundName": "JPMorgan Hong Kong C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117842327",
+          "FundName": "JPMorgan Hong Kong D (acc) - USD"
+        },
+        {
+          "ISIN": "GB00BJ7B5033",
+          "FundName": "JPM Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BJ7B4Z10",
+          "FundName": "JPM Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00BJ7B5140",
+          "FundName": "JPM Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00BJ7B5470",
+          "FundName": "JPM Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00BJ7B5363",
+          "FundName": "JPM Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0289470113",
+          "FundName": "JPM Income Opportunity A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0323456466",
+          "FundName": "JPM Income Opportunity A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU1182913019",
+          "FundName": "JPM Income Opportunity A (perf) (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0323456201",
+          "FundName": "JPM Income Opportunity A (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU1181874402",
+          "FundName": "JPM Income Opportunity A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289479841",
+          "FundName": "JPM Income Opportunity A (perf) (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0289470972",
+          "FundName": "JPM Income Opportunity B (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0464446391",
+          "FundName": "JPM Income Opportunity B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0909494543",
+          "FundName": "JPM Income Opportunity B (perf) (dist) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0642142763",
+          "FundName": "JPM Income Opportunity B (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0289472085",
+          "FundName": "JPM Income Opportunity C (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0323456896",
+          "FundName": "JPM Income Opportunity C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0323456540",
+          "FundName": "JPM Income Opportunity C (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0900828848",
+          "FundName": "JPM Income Opportunity C (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289473059",
+          "FundName": "JPM Income Opportunity D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0289517012",
+          "FundName": "JPM Income Opportunity D (perf) (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0579853648",
+          "FundName": "JPM Income Opportunity I (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0683730856",
+          "FundName": "JPM Income Opportunity Plus A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0683728280",
+          "FundName": "JPM Income Opportunity Plus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0683731318",
+          "FundName": "JPM Income Opportunity Plus A (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0683734767",
+          "FundName": "JPM Income Opportunity Plus C (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0909494469",
+          "FundName": "JPM Income Opportunity Plus C (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289473489",
+          "FundName": "JPM Income Opportunity X (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0416333366",
+          "FundName": "JPM Income Opportunity X (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0626434988",
+          "FundName": "JPM Income Opportunity X (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0210527015",
+          "FundName": "JPMorgan India A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0376412945",
+          "FundName": "JPMorgan India A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0058908533",
+          "FundName": "JPMorgan India A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0935942077",
+          "FundName": "JPMorgan India B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129486113",
+          "FundName": "JPMorgan India B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847323200",
+          "FundName": "JPMorgan India B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129486386",
+          "FundName": "JPMorgan India C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822047170",
+          "FundName": "JPMorgan India C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0522352516",
+          "FundName": "JPMorgan India D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117881739",
+          "FundName": "JPMorgan India D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143810074",
+          "FundName": "JPMorgan India X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0752402288",
+          "FundName": "JPMorgan Indonesia Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0752404730",
+          "FundName": "JPMorgan Indonesia Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "GB0031835555",
+          "FundName": "JPM Institutional Asia Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0218006780",
+          "FundName": "JPM Japan Advantage Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0381989986",
+          "FundName": "JPM Japan Advantage Equity A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0956448640",
+          "FundName": "JPM Japan Advantage Equity A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0381990059",
+          "FundName": "JPM Japan Advantage Equity C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0960331923",
+          "FundName": "JPM Japan Advantage Equity C (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0381990133",
+          "FundName": "JPM Japan Advantage Equity D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0217390730",
+          "FundName": "JPMorgan Japan Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210527361",
+          "FundName": "JPMorgan Japan Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119094695",
+          "FundName": "JPMorgan Japan Equity A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0927678689",
+          "FundName": "JPMorgan Japan Equity A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0053696224",
+          "FundName": "JPMorgan Japan Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0861977402",
+          "FundName": "JPMorgan Japan Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129464730",
+          "FundName": "JPMorgan Japan Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847323382",
+          "FundName": "JPMorgan Japan Equity B (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0847323465",
+          "FundName": "JPMorgan Japan Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129464904",
+          "FundName": "JPMorgan Japan Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU1030900838",
+          "FundName": "JPMorgan Japan Equity C (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0822047337",
+          "FundName": "JPMorgan Japan Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0217390813",
+          "FundName": "JPMorgan Japan Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117866185",
+          "FundName": "JPMorgan Japan Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143810231",
+          "FundName": "JPMorgan Japan Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0030879471",
+          "FundName": "JPM Japan Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMTP77",
+          "FundName": "JPM Japan Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXDH97",
+          "FundName": "JPM Japan Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235RG08",
+          "FundName": "JPM Japan Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235RJ39",
+          "FundName": "JPM Japan Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B9Z1HQ52",
+          "FundName": "JPM Japan Fund C GBP Hedged Net Accumulation"
+        },
+        {
+          "ISIN": "LU0619718827",
+          "FundName": "JPM Japan Market Neutral A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0619719478",
+          "FundName": "JPM Japan Market Neutral A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0631844890",
+          "FundName": "JPM Japan Market Neutral C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0631845277",
+          "FundName": "JPM Japan Market Neutral X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0631845517",
+          "FundName": "JPM Japan Market Neutral X (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0828244052",
+          "FundName": "JPM Japan Select Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0329204894",
+          "FundName": "JPM Japan Strategic Value A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0329204548",
+          "FundName": "JPM Japan Strategic Value A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0329204621",
+          "FundName": "JPM Japan Strategic Value A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0329206832",
+          "FundName": "JPM Japan Strategic Value D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0301637293",
+          "FundName": "JPMorgan Korea Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0301634860",
+          "FundName": "JPMorgan Korea Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0301635750",
+          "FundName": "JPMorgan Korea Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0301637707",
+          "FundName": "JPMorgan Korea Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822047501",
+          "FundName": "JPMorgan Korea Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0301638002",
+          "FundName": "JPMorgan Korea Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0301638341",
+          "FundName": "JPMorgan Korea Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0301639745",
+          "FundName": "JPMorgan Korea Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0831102792",
+          "FundName": "JPM Latin America Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210535034",
+          "FundName": "JPM Latin America Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0053687314",
+          "FundName": "JPM Latin America Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117907989",
+          "FundName": "JPMorgan Latin America Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129491626",
+          "FundName": "JPM Latin America Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0828466622",
+          "FundName": "JPM Latin America Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0994429487",
+          "FundName": "JPM Latin America Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129491972",
+          "FundName": "JPM Latin America Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822048491",
+          "FundName": "JPM Latin America Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0522352862",
+          "FundName": "JPM Latin America Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117896174",
+          "FundName": "JPM Latin America Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248056540",
+          "FundName": "JPM Latin America Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143836624",
+          "FundName": "JPM Latin America Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0002699972",
+          "FundName": "JPMorgan Life All-Emerging Markets Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0004863436",
+          "FundName": "JPMorgan Life All-Emerging Markets Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB00B01LTG09",
+          "FundName": "JPMorgan Life All-Emerging Markets Equity Fund Class 5"
+        },
+        {
+          "ISIN": "GB00B51NXH09",
+          "FundName": "JPMorgan Life All-Emerging Markets Equity Fund Class 6"
+        },
+        {
+          "ISIN": "GB0030848187",
+          "FundName": "JPMorgan Life Asia Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0003427803",
+          "FundName": "JPMorgan Life Asia Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0030848740",
+          "FundName": "JPMorgan Life Asia Equity Fund Class 5"
+        },
+        {
+          "ISIN": "GB00B03KKW80",
+          "FundName": "JPMorgan Life Asia Equity Fund Class 7"
+        },
+        {
+          "ISIN": "GB0030852643",
+          "FundName": "JPMorgan Life Balanced Fund Class 1"
+        },
+        {
+          "ISIN": "GB0003436200",
+          "FundName": "JPMorgan Life Balanced Fund Class 3"
+        },
+        {
+          "ISIN": "GB0031276495",
+          "FundName": "JPMorgan Life Balanced Fund Class 6"
+        },
+        {
+          "ISIN": "GB0030846702",
+          "FundName": "JPMorgan Life Continental Europe Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0003422077",
+          "FundName": "JPMorgan Life Continental Europe Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0004484621",
+          "FundName": "JPMorgan Life Continental Europe Select Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B7VR2S05",
+          "FundName": "JPMorgan Life Diversified Alternative Beta Fund Class 1"
+        },
+        {
+          "ISIN": "GB0006940612",
+          "FundName": "JPMorgan Life Diversified Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0002824992",
+          "FundName": "JPMorgan Life Diversified Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0006684194",
+          "FundName": "JPMorgan Life Diversified Equity Fund Class 6"
+        },
+        {
+          "ISIN": "GB00B97B0W05",
+          "FundName": "JPMorgan Life Diversified Fixed Income Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B16MXP20",
+          "FundName": "JPMorgan Life Diversified Growth Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B16NGV22",
+          "FundName": "JPMorgan Life Diversified Growth Fund Class 5"
+        },
+        {
+          "ISIN": "GB00B7VR4Q21",
+          "FundName": "JPMorgan Life Diversified Real Return Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B58B8N83",
+          "FundName": "JPMorgan Life Global Dynamic All Countries Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B584D655",
+          "FundName": "JPMorgan Life Global Dynamic All Countries Fund Class 1 (GBP Hedged)"
+        },
+        {
+          "ISIN": "GB00B4T02F79",
+          "FundName": "JPMorgan Life Global Dynamic All Countries Fund Class 3"
+        },
+        {
+          "ISIN": "GB00B531J851",
+          "FundName": "JPMorgan Life Global Dynamic All Countries Fund Class 6"
+        },
+        {
+          "ISIN": "GB00B0V2C756",
+          "FundName": "JPMorgan Life Global Dynamic Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B2QKTJ91",
+          "FundName": "JPMorgan Life Global Dynamic Fund Class 1 (GBP Hedged)"
+        },
+        {
+          "ISIN": "GB00B0V2CQ47",
+          "FundName": "JPMorgan Life Global Dynamic Fund Class 3"
+        },
+        {
+          "ISIN": "GB0030853054",
+          "FundName": "JPMorgan Life Global Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0003436317",
+          "FundName": "JPMorgan Life Global Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0031276388",
+          "FundName": "JPMorgan Life Global Equity Fund Class 6"
+        },
+        {
+          "ISIN": "GB0002700291",
+          "FundName": "JPMorgan Life Global ex-UK Bond Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B783ZZ92",
+          "FundName": "JPMorgan Life Global Focus Fund Class 1"
+        },
+        {
+          "ISIN": "GB0004468426",
+          "FundName": "JPMorgan Life Japan Advantage Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B03KL032",
+          "FundName": "JPMorgan Life Japan Advantage Equity Fund Class 7"
+        },
+        {
+          "ISIN": "GB0030847221",
+          "FundName": "JPMorgan Life Japan Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0003424891",
+          "FundName": "JPMorgan Life Japan Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0006750888",
+          "FundName": "JPMorgan Life Moderate Fund Class 1"
+        },
+        {
+          "ISIN": "GB0002824117",
+          "FundName": "JPMorgan Life Moderate Fund Class 3"
+        },
+        {
+          "ISIN": "GB00BCFFND71",
+          "FundName": "JPMorgan Life SmartRetirement 2020 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFNG03",
+          "FundName": "JPMorgan Life SmartRetirement 2020 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFNJ34",
+          "FundName": "JPMorgan Life SmartRetirement 2025 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFNL55",
+          "FundName": "JPMorgan Life SmartRetirement 2025 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFNN79",
+          "FundName": "JPMorgan Life SmartRetirement 2030 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFNQ01",
+          "FundName": "JPMorgan Life SmartRetirement 2030 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFNS25",
+          "FundName": "JPMorgan Life SmartRetirement 2035 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFNV53",
+          "FundName": "JPMorgan Life SmartRetirement 2035 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFNX77",
+          "FundName": "JPMorgan Life SmartRetirement 2040 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFNZ91",
+          "FundName": "JPMorgan Life SmartRetirement 2040 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFP198",
+          "FundName": "JPMorgan Life SmartRetirement 2045 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFP313",
+          "FundName": "JPMorgan Life SmartRetirement 2045 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFP537",
+          "FundName": "JPMorgan Life SmartRetirement 2050 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFP750",
+          "FundName": "JPMorgan Life SmartRetirement 2050 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00BCFFP974",
+          "FundName": "JPMorgan Life SmartRetirement 2055 Fund Class 1"
+        },
+        {
+          "ISIN": "GB00BCFFPC05",
+          "FundName": "JPMorgan Life SmartRetirement 2055 Fund Class 5"
+        },
+        {
+          "ISIN": "GB00B61J4W75",
+          "FundName": "JPMorgan Life Sterling Corporate Bond Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B61J4G18",
+          "FundName": "JPMorgan Life Sterling Corporate Bond Fund Class 3"
+        },
+        {
+          "ISIN": "GB00B92QYZ12",
+          "FundName": "JPMorgan Life Strategic Bond Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B92QZ255",
+          "FundName": "JPMorgan Life Strategic Bond Fund Class 6"
+        },
+        {
+          "ISIN": "GB00B0CM5F37",
+          "FundName": "JPMorgan Life UK Dynamic Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B0CMTV75",
+          "FundName": "JPMorgan Life UK Dynamic Fund Class 6"
+        },
+        {
+          "ISIN": "GB0030851561",
+          "FundName": "JPMorgan Life UK Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0003433181",
+          "FundName": "JPMorgan Life UK Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0030850936",
+          "FundName": "JPMorgan Life UK Gilt Fund Class 1"
+        },
+        {
+          "ISIN": "GB0002699758",
+          "FundName": "JPMorgan Life UK Index-Linked Gilt Fund Class 1"
+        },
+        {
+          "ISIN": "GB0004863543",
+          "FundName": "JPMorgan Life UK Liquidity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0002782943",
+          "FundName": "JPMorgan Life UK Liquidity Fund Class 3"
+        },
+        {
+          "ISIN": "GB00B71DGG41",
+          "FundName": "JPMorgan Life UK Liquidity Fund Class 6"
+        },
+        {
+          "ISIN": "GB0002700630",
+          "FundName": "JPMorgan Life UK Long Dated Gilt Fund Class 1"
+        },
+        {
+          "ISIN": "GB0004875513",
+          "FundName": "JPMorgan Life UK Long Dated Gilt Fund Class 3"
+        },
+        {
+          "ISIN": "GB0007226508",
+          "FundName": "JPMorgan Life UK Long Dated Gilt Fund Class 5"
+        },
+        {
+          "ISIN": "GB0030290802",
+          "FundName": "JPMorgan Life UK Research Enhanced Index Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0030291107",
+          "FundName": "JPMorgan Life UK Research Enhanced Index Equity Fund Class 3"
+        },
+        {
+          "ISIN": "GB0031871592",
+          "FundName": "JPMorgan Life UK Small Cap Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0031423295",
+          "FundName": "JPMorgan Life UK Specialist Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB00B41H2T03",
+          "FundName": "JPMorgan Life UK Specialist Equity Fund Class 6"
+        },
+        {
+          "ISIN": "GB00B03KKQ21",
+          "FundName": "JPMorgan Life UK Specialist Equity Fund Class 7"
+        },
+        {
+          "ISIN": "GB00B1HM6F25",
+          "FundName": "JPMorgan Life US Equity Fund Class 1"
+        },
+        {
+          "ISIN": "GB0004395744",
+          "FundName": "JPMorgan Life US Research Enhanced Index 250 Fund Class 1"
+        },
+        {
+          "ISIN": "GB0004861836",
+          "FundName": "JPMorgan Life US Research Enhanced Index 250 Fund Class 3"
+        },
+        {
+          "ISIN": "LU0513027960",
+          "FundName": "JPM Managed Reserves Fund A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0513027705",
+          "FundName": "JPM Managed Reserves Fund A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0513028182",
+          "FundName": "JPM Managed Reserves Fund A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0513028422",
+          "FundName": "JPM Managed Reserves Fund B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0807489900",
+          "FundName": "JPM Managed Reserves Fund B (inc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0513029156",
+          "FundName": "JPM Managed Reserves Fund C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0513028778",
+          "FundName": "JPM Managed Reserves Fund C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0539309053",
+          "FundName": "JPM Managed Reserves Fund C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0619381097",
+          "FundName": "JPM Managed Reserves Fund C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0513030329",
+          "FundName": "JPM Managed Reserves Fund I (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0513030162",
+          "FundName": "JPM Managed Reserves Fund I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0513031210",
+          "FundName": "JPM Managed Reserves Fund X (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0513031053",
+          "FundName": "JPM Managed Reserves Fund X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0626449077",
+          "FundName": "JPM Managed Reserves Fund X (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "GB00B4N1ZJ15",
+          "FundName": "JPM Multi-Asset Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B4N1ZR98",
+          "FundName": "JPM Multi-Asset Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00BGP6KZ93",
+          "FundName": "JPM Multi-Asset Income Fund A Monthly - Net Income"
+        },
+        {
+          "ISIN": "GB00B4N1ZT13",
+          "FundName": "JPM Multi-Asset Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B4N20K01",
+          "FundName": "JPM Multi-Asset Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00BGP6L010",
+          "FundName": "JPM Multi-Asset Income Fund B Monthly - Net Income"
+        },
+        {
+          "ISIN": "GB00B4N20M25",
+          "FundName": "JPM Multi-Asset Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B4N20S86",
+          "FundName": "JPM Multi-Asset Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00BGP6L127",
+          "FundName": "JPM Multi-Asset Income Fund C Monthly - Net Income"
+        },
+        {
+          "ISIN": "GB00B4RKR432",
+          "FundName": "JPM Multi-Asset Income Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B4RKR986",
+          "FundName": "JPM Multi-Asset Income Fund X - Net Income"
+        },
+        {
+          "ISIN": "GB00B563VJ35",
+          "FundName": "JPM Multi-Asset Macro Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B5N9ZW58",
+          "FundName": "JPM Multi-Asset Macro Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B4S5QZ11",
+          "FundName": "JPM Multi-Asset Macro Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B4WKYF80",
+          "FundName": "JPM Multi-Asset Macro Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B44CT796",
+          "FundName": "JPM Multi-Asset Macro Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0030876352",
+          "FundName": "JPM Multi-Manager Growth Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0030869779",
+          "FundName": "JPM Multi-Manager Growth Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXCT45",
+          "FundName": "JPM Multi-Manager Growth Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXD916",
+          "FundName": "JPM Multi-Manager Growth Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235R829",
+          "FundName": "JPM Multi-Manager Growth Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235RD76",
+          "FundName": "JPM Multi-Manager Growth Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00BTF80V28",
+          "FundName": "JPM Multi-Manager Growth Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0031835118",
+          "FundName": "JPM Natural Resources Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMTQ84",
+          "FundName": "JPM Natural Resources Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXDT10",
+          "FundName": "JPM Natural Resources Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXF283",
+          "FundName": "JPM Natural Resources Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B88MP089",
+          "FundName": "JPM Natural Resources Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B61M9437",
+          "FundName": "JPM Natural Resources Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0001655124",
+          "FundName": "JPM New Europe Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XMTT16",
+          "FundName": "JPM New Europe Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXF952",
+          "FundName": "JPM New Europe Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXFF14",
+          "FundName": "JPM New Europe Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B8DLLD51",
+          "FundName": "JPM New Europe Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B5NK2V63",
+          "FundName": "JPM New Europe Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0217390573",
+          "FundName": "JPMorgan Pacific Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210528096",
+          "FundName": "JPMorgan Pacific Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119094851",
+          "FundName": "JPMorgan Pacific Equity A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0052474979",
+          "FundName": "JPMorgan Pacific Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129471602",
+          "FundName": "JPMorgan Pacific Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847323978",
+          "FundName": "JPMorgan Pacific Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129471941",
+          "FundName": "JPMorgan Pacific Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822047840",
+          "FundName": "JPMorgan Pacific Equity C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0217390656",
+          "FundName": "JPMorgan Pacific Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117866854",
+          "FundName": "JPMorgan Pacific Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143810405",
+          "FundName": "JPMorgan Pacific Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0031834699",
+          "FundName": "JPM Portfolio Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8325K37",
+          "FundName": "JPM Portfolio Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7XL3656",
+          "FundName": "JPM Portfolio Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0225506756",
+          "FundName": "JPM Russia A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0215049551",
+          "FundName": "JPM Russia A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0215049809",
+          "FundName": "JPM Russia B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847330916",
+          "FundName": "JPM Russia B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0215050302",
+          "FundName": "JPM Russia C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0215050484",
+          "FundName": "JPM Russia D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248057944",
+          "FundName": "JPM Russia I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210528336",
+          "FundName": "JPMorgan Singapore A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117842756",
+          "FundName": "JPMorgan Singapore A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129486543",
+          "FundName": "JPMorgan Singapore B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847324356",
+          "FundName": "JPMorgan Singapore B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129487194",
+          "FundName": "JPMorgan Singapore C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117843135",
+          "FundName": "JPMorgan Singapore D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248058249",
+          "FundName": "JPMorgan Singapore I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210535463",
+          "FundName": "JPM Sterling Bond A (acc) - GBP"
+        },
+        {
+          "ISIN": "LU0053692744",
+          "FundName": "JPM Sterling Bond A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0117897909",
+          "FundName": "JPM Sterling Bond D (acc) - GBP"
+        },
+        {
+          "ISIN": "GB0030877541",
+          "FundName": "JPM Sterling Corporate Bond Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0030877434",
+          "FundName": "JPM Sterling Corporate Bond Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXH990",
+          "FundName": "JPM Sterling Corporate Bond Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXHD30",
+          "FundName": "JPM Sterling Corporate Bond Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B3X3KT50",
+          "FundName": "JPM Sterling Corporate Bond Fund C - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B647K317",
+          "FundName": "JPM Sterling Corporate Bond Fund C - Gross Income"
+        },
+        {
+          "ISIN": "GB00B235SF65",
+          "FundName": "JPM Sterling Corporate Bond Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235SK19",
+          "FundName": "JPM Sterling Corporate Bond Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B1KVJ916",
+          "FundName": "JPM Sterling Corporate Bond Fund I - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B014GV33",
+          "FundName": "JPM Sterling Corporate Bond Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B014H654",
+          "FundName": "JPM Sterling Corporate Bond Fund I - Net Income"
+        },
+        {
+          "ISIN": "GB00B3RJ9B43",
+          "FundName": "JPM Strategic Bond Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3RJ9K34",
+          "FundName": "JPM Strategic Bond Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B3RJ9S10",
+          "FundName": "JPM Strategic Bond Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3RJB414",
+          "FundName": "JPM Strategic Bond Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B6SZ5703",
+          "FundName": "JPM Strategic Bond Fund C - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B5YKM717",
+          "FundName": "JPM Strategic Bond Fund C - Gross Income"
+        },
+        {
+          "ISIN": "GB00B3RJBC99",
+          "FundName": "JPM Strategic Bond Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3RJBL80",
+          "FundName": "JPM Strategic Bond Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B3RJCD71",
+          "FundName": "JPM Strategic Bond Fund I - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B3RJCR18",
+          "FundName": "JPM Strategic Bond Fund I - Gross Income"
+        },
+        {
+          "ISIN": "GB00B3RJBY10",
+          "FundName": "JPM Strategic Bond Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3RJC594",
+          "FundName": "JPM Strategic Bond Fund I - Net Income"
+        },
+        {
+          "ISIN": "GB00B3RJDB23",
+          "FundName": "JPM Strategic Bond Fund X - Gross Accumulation"
+        },
+        {
+          "ISIN": "GB00B3RJDK14",
+          "FundName": "JPM Strategic Bond Fund X - Gross Income"
+        },
+        {
+          "ISIN": "GB00B3RJCZ91",
+          "FundName": "JPM Strategic Bond Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0406668003",
+          "FundName": "JPM Systematic Alpha A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0817735565",
+          "FundName": "JPM Systematic Alpha A (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0952565892",
+          "FundName": "JPM Systematic Alpha A (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0406668185",
+          "FundName": "JPM Systematic Alpha B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1074658714",
+          "FundName": "JPM Systematic Alpha B (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0406668342",
+          "FundName": "JPM Systematic Alpha C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0817738668",
+          "FundName": "JPM Systematic Alpha C (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0406668425",
+          "FundName": "JPM Systematic Alpha I (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0406668698",
+          "FundName": "JPM Systematic Alpha X (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0960159092",
+          "FundName": "JPM Systematic Alpha X (acc) - USD (hedged)"
+        },
+        {
+          "ISIN": "LU0900193847",
+          "FundName": "JPM Systematic Alpha X (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0401357313",
+          "FundName": "JPMorgan Taiwan A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210528419",
+          "FundName": "JPMorgan Taiwan A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117843481",
+          "FundName": "JPMorgan Taiwan A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129487608",
+          "FundName": "JPMorgan Taiwan B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0129487947",
+          "FundName": "JPMorgan Taiwan C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822048228",
+          "FundName": "JPMorgan Taiwan C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117843721",
+          "FundName": "JPMorgan Taiwan D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143810744",
+          "FundName": "JPMorgan Taiwan X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0007434243",
+          "FundName": "The Bond Fund For Charities"
+        },
+        {
+          "ISIN": "GB0007434136",
+          "FundName": "The UK Equity Fund For Charities"
+        },
+        {
+          "ISIN": "LU0973367849",
+          "FundName": "JPM Total Emerging Markets Income C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0972619547",
+          "FundName": "JPM Total Emerging Markets Income X (acc) - GBP"
+        },
+        {
+          "ISIN": "LU0210530316",
+          "FundName": "JPM Turkey Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117839455",
+          "FundName": "JPM Turkey Equity A (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129491386",
+          "FundName": "JPM Turkey Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0847327029",
+          "FundName": "JPM Turkey Equity B (dist) - EUR"
+        },
+        {
+          "ISIN": "LU0129491469",
+          "FundName": "JPM Turkey Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117839612",
+          "FundName": "JPM Turkey Equity D (acc) - EUR"
+        },
+        {
+          "ISIN": "GB00B55QSH09",
+          "FundName": "JPM UK Active Index Plus Fund E - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B58L4H43",
+          "FundName": "JPM UK Active Index Plus Fund E - Net Income"
+        },
+        {
+          "ISIN": "GB0009698001",
+          "FundName": "JPM UK Dynamic Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0009697920",
+          "FundName": "JPM UK Dynamic Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXHP51",
+          "FundName": "JPM UK Dynamic Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B6X9BB33",
+          "FundName": "JPM UK Dynamic Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B6THL002",
+          "FundName": "JPM UK Dynamic Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0030882301",
+          "FundName": "JPM UK Equity & Bond Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0030882079",
+          "FundName": "JPM UK Equity & Bond Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXHX36",
+          "FundName": "JPM UK Equity & Bond Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXJ152",
+          "FundName": "JPM UK Equity & Bond Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B23FXM80",
+          "FundName": "JPM UK Equity & Bond Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B23FXP12",
+          "FundName": "JPM UK Equity & Bond Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0030878408",
+          "FundName": "JPM UK Higher Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0030878176",
+          "FundName": "JPM UK Higher Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXFY03",
+          "FundName": "JPM UK Higher Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXG034",
+          "FundName": "JPM UK Higher Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235RX72",
+          "FundName": "JPM UK Higher Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235S124",
+          "FundName": "JPM UK Higher Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B24FZ095",
+          "FundName": "JPM UK Managed Equity Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B24FYB32",
+          "FundName": "JPM UK Managed Equity Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B740R810",
+          "FundName": "JPM UK Managed Equity Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7D5N900",
+          "FundName": "JPM UK Managed Equity Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B7MNS677",
+          "FundName": "JPM UK Managed Equity Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0030880255",
+          "FundName": "JPM UK Smaller Companies Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XN4Q60",
+          "FundName": "JPM UK Smaller Companies Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B2359L95",
+          "FundName": "JPM UK Smaller Companies Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B84LQR33",
+          "FundName": "JPM UK Smaller Companies Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8MZ4L75",
+          "FundName": "JPM UK Smaller Companies Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0031835001",
+          "FundName": "JPM UK Smaller Companies Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0032472911",
+          "FundName": "JPM UK Smaller Companies Fund X - Net Income"
+        },
+        {
+          "ISIN": "GB0004124904",
+          "FundName": "JPM UK Strategic Equity Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB0004124342",
+          "FundName": "JPM UK Strategic Equity Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXNF71",
+          "FundName": "JPM UK Strategic Equity Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1YXPZ18",
+          "FundName": "JPM UK Strategic Equity Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B235SZ61",
+          "FundName": "JPM UK Strategic Equity Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235T312",
+          "FundName": "JPM UK Strategic Equity Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B28HQF32",
+          "FundName": "JPM UK Strategic Equity Income Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B28HQN16",
+          "FundName": "JPM UK Strategic Equity Income Fund I - Net Income"
+        },
+        {
+          "ISIN": "GB00B3FJQ821",
+          "FundName": "JPM UK Strategic Growth Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3FJQ938",
+          "FundName": "JPM UK Strategic Growth Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B3FJQB55",
+          "FundName": "JPM UK Strategic Growth Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3FJQD79",
+          "FundName": "JPM UK Strategic Growth Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3FJQH18",
+          "FundName": "JPM UK Strategic Growth Fund C - Net Income"
+        },
+        {
+          "ISIN": "LU0679000579",
+          "FundName": "JPM US Aggregate Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210532957",
+          "FundName": "JPM US Aggregate Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0117838564",
+          "FundName": "JPM US Aggregate Bond A (inc) - USD"
+        },
+        {
+          "ISIN": "LU0849815831",
+          "FundName": "JPM US Aggregate Bond B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0217389484",
+          "FundName": "JPM US Aggregate Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU1120565301",
+          "FundName": "JPM US Aggregate Bond B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0217389567",
+          "FundName": "JPM US Aggregate Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU1120565483",
+          "FundName": "JPM US Aggregate Bond C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0822048814",
+          "FundName": "JPM US Aggregate Bond C (inc) - USD"
+        },
+        {
+          "ISIN": "LU0549623634",
+          "FundName": "JPM US Aggregate Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0117838648",
+          "FundName": "JPM US Aggregate Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248063595",
+          "FundName": "JPM US Aggregate Bond I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0216283365",
+          "FundName": "JPM US Aggregate Bond X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0070215933",
+          "FundName": "JPM US Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247986820",
+          "FundName": "JPM US Bond A (inc) - USD"
+        },
+        {
+          "ISIN": "LU0070216238",
+          "FundName": "JPM US Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0086741088",
+          "FundName": "JPM US Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0115104423",
+          "FundName": "JPM US Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0945454980",
+          "FundName": "JPM US Dollar Money Market A (acc) - USD"
+        },
+        {
+          "ISIN": "LU1005103913",
+          "FundName": "JPMorgan US Dollar Money Market A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0278558811",
+          "FundName": "JPM US Equity A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0278557920",
+          "FundName": "JPM US Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0278559033",
+          "FundName": "JPM US Equity A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0278558142",
+          "FundName": "JPM US Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU1102886386",
+          "FundName": "JPM US Equity All Cap A (dist) - USD"
+        },
+        {
+          "ISIN": "LU1033934347",
+          "FundName": "JPM US Equity All Cap C (acc) - USD"
+        },
+        {
+          "ISIN": "LU1102886626",
+          "FundName": "JPM US Equity All Cap C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU1033933703",
+          "FundName": "JPM US Equity All Cap A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1033934008",
+          "FundName": "JPM US Equity All Cap A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU1033933612",
+          "FundName": "JPM US Equity All Cap A (acc) - USD"
+        },
+        {
+          "ISIN": "LU1033934180",
+          "FundName": "JPM US Equity All Cap B (acc) - USD"
+        },
+        {
+          "ISIN": "LU1033934693",
+          "FundName": "JPM US Equity All Cap C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU1074935906",
+          "FundName": "JPM US Equity All Cap X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0278559389",
+          "FundName": "JPM US Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0278559629",
+          "FundName": "JPM US Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0278564033",
+          "FundName": "JPM US Equity D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0278563068",
+          "FundName": "JPM US Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "GB00B3FJQ045",
+          "FundName": "JPM US Equity Income Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3FJQ151",
+          "FundName": "JPM US Equity Income Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B4N1G326",
+          "FundName": "JPM US Equity Income Fund A - Net Income (GBP hedged)"
+        },
+        {
+          "ISIN": "GB00B3FJQ268",
+          "FundName": "JPM US Equity Income Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3FJQ375",
+          "FundName": "JPM US Equity Income Fund B - Net Income"
+        },
+        {
+          "ISIN": "GB00B3FJQ482",
+          "FundName": "JPM US Equity Income Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B3FJQ599",
+          "FundName": "JPM US Equity Income Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B7N03064",
+          "FundName": "JPM US Equity Income Fund C - Net Income (GBP Hedged)"
+        },
+        {
+          "ISIN": "GB00B7301B38",
+          "FundName": "JPM US Equity Income Fund X - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0289215195",
+          "FundName": "JPM US Equity Plus A (perf) (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0289215278",
+          "FundName": "JPM US Equity Plus A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0289218454",
+          "FundName": "JPM US Equity Plus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289231713",
+          "FundName": "JPM US Equity Plus A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0289232281",
+          "FundName": "JPM US Equity Plus A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289218884",
+          "FundName": "JPM US Equity Plus B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847331302",
+          "FundName": "JPM US Equity Plus B (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289218967",
+          "FundName": "JPM US Equity Plus C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289215518",
+          "FundName": "JPM US Equity Plus D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0289219007",
+          "FundName": "JPM US Equity Plus D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0278565279",
+          "FundName": "JPM US Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB0030878846",
+          "FundName": "JPM US Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XN4S84",
+          "FundName": "JPM US Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B1YXQV45",
+          "FundName": "JPM US Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235T429",
+          "FundName": "JPM US Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B235T643",
+          "FundName": "JPM US Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB00B1JNDT60",
+          "FundName": "JPM US Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0284208625",
+          "FundName": "JPM US Growth A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210536198",
+          "FundName": "JPM US Growth A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119089182",
+          "FundName": "JPM US Growth A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0119063898",
+          "FundName": "JPM US Growth A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0884702225",
+          "FundName": "JPM US Growth B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129460316",
+          "FundName": "JPM US Growth B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289216912",
+          "FundName": "JPM US Growth C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129460407",
+          "FundName": "JPM US Growth C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0580369782",
+          "FundName": "JPM US Growth C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0647025211",
+          "FundName": "JPM US Growth C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0284208971",
+          "FundName": "JPM US Growth D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0119065240",
+          "FundName": "JPM US Growth D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143839131",
+          "FundName": "JPM US Growth X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0749327549",
+          "FundName": "JPM US High Yield Plus Bond A (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0749327200",
+          "FundName": "JPM US High Yield Plus Bond A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0749328190",
+          "FundName": "JPM US High Yield Plus Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0749328273",
+          "FundName": "JPM US High Yield Plus Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0959611699",
+          "FundName": "JPM US High Yield Plus Bond X (acc) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0590395801",
+          "FundName": "JPM US Research Enhanced Index Equity C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0590396015",
+          "FundName": "JPM US Research Enhanced Index Equity I (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0218171717",
+          "FundName": "JPM US Select Equity A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0157182857",
+          "FundName": "JPM US Select Equity A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0070214290",
+          "FundName": "JPM US Select Equity A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0247985343",
+          "FundName": "JPM US Select Equity A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0728016287",
+          "FundName": "JPM US Select Equity B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0070214530",
+          "FundName": "JPM US Select Equity B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0848066766",
+          "FundName": "JPM US Select Equity B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0672672143",
+          "FundName": "JPM US Select Equity C (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0294032106",
+          "FundName": "JPM US Select Equity C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0087133087",
+          "FundName": "JPM US Select Equity C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0671461233",
+          "FundName": "JPM US Select Equity C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0157183665",
+          "FundName": "JPM US Select Equity D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0115097544",
+          "FundName": "JPM US Select Equity D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248005711",
+          "FundName": "JPM US Select Equity I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0281482918",
+          "FundName": "JPM US Select Equity Plus A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0292454872",
+          "FundName": "JPM US Select Equity Plus A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0281483486",
+          "FundName": "JPM US Select Equity Plus A (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0281482678",
+          "FundName": "JPM US Select Equity Plus A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0281484021",
+          "FundName": "JPM US Select Equity Plus B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0289216839",
+          "FundName": "JPM US Select Equity Plus C (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0281484617",
+          "FundName": "JPM US Select Equity Plus C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822049119",
+          "FundName": "JPM US Select Equity Plus C (perf) (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0644289422",
+          "FundName": "JPM US Select Equity Plus C (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0822049200",
+          "FundName": "JPM US Select Equity Plus C (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0281485184",
+          "FundName": "JPM US Select Equity Plus D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0281484880",
+          "FundName": "JPM US Select Equity Plus D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0281485341",
+          "FundName": "JPM US Select Equity Plus I (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0281485770",
+          "FundName": "JPM US Select Equity Plus X (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0085143211",
+          "FundName": "JPM US Select Equity X (acc) - USD"
+        },
+        {
+          "ISIN": "GB00B2Q5DW58",
+          "FundName": "JPM US Select Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B2Q5DX65",
+          "FundName": "JPM US Select Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B2Q5DV42",
+          "FundName": "JPM US Select Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B2Q5DR06",
+          "FundName": "JPM US Select Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B2Q5DQ98",
+          "FundName": "JPM US Select Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0031835225",
+          "FundName": "JPM US Select Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0572777265",
+          "FundName": "JPM US Select Long-Short Equity A (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0572777000",
+          "FundName": "JPM US Select Long-Short Equity A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0594426198",
+          "FundName": "JPM US Select Long-Short Equity A (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0572777422",
+          "FundName": "JPM US Select Long-Short Equity B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0594426354",
+          "FundName": "JPM US Select Long-Short Equity C (perf) (dist) - GBP (hedged)"
+        },
+        {
+          "ISIN": "LU0572778313",
+          "FundName": "JPM US Select Long-Short Equity D (perf) (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0572778404",
+          "FundName": "JPM US Select Long-Short Equity X (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562247691",
+          "FundName": "JPM US Short Duration Bond A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0562247428",
+          "FundName": "JPM US Short Duration Bond A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562247774",
+          "FundName": "JPM US Short Duration Bond B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562247857",
+          "FundName": "JPM US Short Duration Bond C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562248152",
+          "FundName": "JPM US Short Duration Bond D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0562248079",
+          "FundName": "JPM US Short Duration Bond D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562248236",
+          "FundName": "JPM US Short Duration Bond I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0562248319",
+          "FundName": "JPM US Short Duration Bond X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0401357743",
+          "FundName": "JPM US Small Cap Growth A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210535976",
+          "FundName": "JPM US Small Cap Growth A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119093705",
+          "FundName": "JPM US Small Cap Growth A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0053671581",
+          "FundName": "JPM US Small Cap Growth A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0828466978",
+          "FundName": "JPM US Small Cap Growth B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0129463765",
+          "FundName": "JPM US Small Cap Growth B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847332375",
+          "FundName": "JPM US Small Cap Growth B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129463922",
+          "FundName": "JPM US Small Cap Growth C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822049382",
+          "FundName": "JPM US Small Cap Growth C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117881226",
+          "FundName": "JPM US Small Cap Growth D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143811122",
+          "FundName": "JPM US Small Cap Growth X (acc) - USD"
+        },
+        {
+          "ISIN": "LU0210528922",
+          "FundName": "JPM US Smaller Companies A (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0053697206",
+          "FundName": "JPM US Smaller Companies A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0143906930",
+          "FundName": "JPMorgan US Smaller Companies A (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0492127989",
+          "FundName": "JPM US Smaller Companies B (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847332458",
+          "FundName": "JPM US Smaller Companies B (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0912749735",
+          "FundName": "JPM US Smaller Companies C (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0973547317",
+          "FundName": "JPM US Smaller Companies C (perf) (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117881572",
+          "FundName": "JPM US Smaller Companies D (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "GB0030880032",
+          "FundName": "JPM US Smaller Companies Fund A - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B1XN4Y45",
+          "FundName": "JPM US Smaller Companies Fund A - Net Income"
+        },
+        {
+          "ISIN": "GB00B2359Z32",
+          "FundName": "JPM US Smaller Companies Fund B - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B8H99P30",
+          "FundName": "JPM US Smaller Companies Fund C - Net Accumulation"
+        },
+        {
+          "ISIN": "GB00B88VFM76",
+          "FundName": "JPM US Smaller Companies Fund C - Net Income"
+        },
+        {
+          "ISIN": "GB0030880149",
+          "FundName": "JPM US Smaller Companies Fund I - Net Accumulation"
+        },
+        {
+          "ISIN": "LU0143838083",
+          "FundName": "JPM US Smaller Companies X (perf) (acc) - USD"
+        },
+        {
+          "ISIN": "LU0159052710",
+          "FundName": "JPM US Technology A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0210536867",
+          "FundName": "JPM US Technology A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119095742",
+          "FundName": "JPM US Technology A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0082616367",
+          "FundName": "JPM US Technology A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0117907120",
+          "FundName": "JPMorgan US Technology A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129496187",
+          "FundName": "JPM US Technology B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0847332615",
+          "FundName": "JPM US Technology B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0129496690",
+          "FundName": "JPM US Technology C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822049549",
+          "FundName": "JPM US Technology C (dist) - USD"
+        },
+        {
+          "ISIN": "LU0159053015",
+          "FundName": "JPM US Technology D (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0117885052",
+          "FundName": "JPM US Technology D (acc) - USD"
+        },
+        {
+          "ISIN": "LU1211166183",
+          "FundName": "JPM US Value A (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0244270301",
+          "FundName": "JPM US Value A (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0210536511",
+          "FundName": "JPM US Value A (acc) - USD"
+        },
+        {
+          "ISIN": "LU0119089935",
+          "FundName": "JPM US Value A (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0119066131",
+          "FundName": "JPM US Value A (dist) - USD"
+        },
+        {
+          "ISIN": "LU0143907235",
+          "FundName": "JPMorgan US Value A (dist) - USD"
+        },
+        {
+          "ISIN": "LU1098399733",
+          "FundName": "JPM US Value B (acc) - EUR"
+        },
+        {
+          "ISIN": "LU0828467273",
+          "FundName": "JPM US Value B (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129462874",
+          "FundName": "JPM US Value B (acc) - USD"
+        },
+        {
+          "ISIN": "LU0828467430",
+          "FundName": "JPM US Value B (dist) - USD"
+        },
+        {
+          "ISIN": "LU0289217050",
+          "FundName": "JPM US Value C (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0129463179",
+          "FundName": "JPM US Value C (acc) - USD"
+        },
+        {
+          "ISIN": "LU0822049622",
+          "FundName": "JPM US Value C (dist) - GBP"
+        },
+        {
+          "ISIN": "LU0244270723",
+          "FundName": "JPM US Value D (acc) - EUR (hedged)"
+        },
+        {
+          "ISIN": "LU0119066727",
+          "FundName": "JPM US Value D (acc) - USD"
+        },
+        {
+          "ISIN": "LU0248060658",
+          "FundName": "JPM US Value I (acc) - USD"
+        },
+        {
+          "ISIN": "LU0143838752",
+          "FundName": "JPM US Value X (acc) - USD"
+        }
+      ]
+}
