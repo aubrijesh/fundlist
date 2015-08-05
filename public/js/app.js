@@ -1,1 +1,1 @@
-var app = angular.module("myKurtosysApp", []);
+var app = angular.module("myKurtosysApp", ['ui-rangeSlider', 'ui.bootstrap']);

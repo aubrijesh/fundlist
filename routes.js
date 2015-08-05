@@ -1,5 +1,18 @@
 var fs = require('fs');
 
+
+function getFile (filename, res){
+	var file = __dirname + '/data/' + filename +'.json';
+    fs.readFile(file, 'utf8', function (err, data) {
+		if (err){
+			throw err;
+			data = [];
+		}
+		res.send(data);
+	});
+}
+
+
 module.exports = function(app) {
 
 	app.get('/', function (req, res) {
@@ -7,13 +20,6 @@ module.exports = function(app) {
 	});
 
 	app.get('/data/:type', function (req, res) {
-		var file = __dirname + '/data/' + req.params.type +'.json';
-	    fs.readFile(file, 'utf8', function (err, data) {
-			if (err){
-				throw err;
-				data = [];
-			}
-			res.send(data);
-		});
+		getFile(req.params.type, res);
 	});
 };

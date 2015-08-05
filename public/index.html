@@ -11,18 +11,51 @@
 
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/bootstrap.min.css"><!-- load bootstrap CSS-->
+
+		<!-- Angular rangeSlider CSS -->
+		<link href="/css/angular.rangeSlider.css" rel="stylesheet">
 		<style type="text/css">
 			.top-40 {
 				margin-top: 40px;
 			}
+			.top-10 {
+				margin-top: 10px;
+			}
+			.bottom-10 {
+				margin-bottom: 10px;
+			}
+
 			.color-yellow {
 				color :#ffd700;
+			}
+			.color-grey {
+				 color: grey;
+			}
+			.bg-grey {
+				background-color: #eaedf1;
+			}
+			.bg-white{
+				background-color: #fff;
+			}
+			.list {
+				margin: 10px 0 10px;
+			}
+			.pad-10 {
+			  	padding: 10px 10px 10px 10px;
+			}
+			.text-blue {
+				color: #88abd5;
+			}
+			.text-align-right {
+				text-align: right;
 			}
 		</style>
 		<!-- JAVASCRIPT -->
 		<script type="text/javascript" src="/js/jquery.min.js"></script><!-- load Jquery-->
 		<script type="text/javascript" src="/js/bootstrap.min.js"></script><!-- load bootstrap JS-->
 		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script><!-- load angular -->
+		<!-- rangeSlider Js -->
+		<script src="/js/angular.rangeSlider.js"></script>
 
 		<script src="js/app.js"></script> <!-- load our main application -->
 		<script src="js/controllers/main.js"></script> <!-- load our controller -->
@@ -73,10 +106,117 @@
 					</div>
 					<hr>
 					<b>SHARE CLASS</b>
-					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Share Class'}" ng-model="selected"></select>
+					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Share Class'}" ng-model="ShareClassSelect"></select>
 					<hr>
+					<b>CURRENCY</b>
+					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Currency'}" ng-model="CurrencySelect"></select>
+					<hr>
+					<b>REGION</b>
+					<div class="checkbox" data-ng-repeat="item in filter">
+					  	<label data-ng-if="item.FilterTypeName === 'Region'">
+					  		<input type="checkbox" value="">
+					  		<span  data-ng-bind="item.FilterName"></span>
+					  	</label>
+					</div>
+					<hr>
+					<b>MORNINGSTAR RATINGS</b>
+					<div class="checkbox" data-ng-repeat="item in filter">
+					  	<label data-ng-if="item.FilterTypeName === 'Morningstar Rating'">
+					  		<input type="checkbox" value="">
+					  		<span class="glyphicon glyphicon-star" data-ng-repeat="star in range(item.FilterName)"></span>
+					  	</label>
+					</div>
+					<hr>
+					<b>FUND SIZE (M)</b>
+					<div range-slider min="slider.min" max="slider.max" model-min="slider.min" model-max="slider.max"></div>
 				</div>
-				<div class="col-md-9"></div>
+				<div class="col-md-9 bg-grey">
+					<hr>
+					<div class="bg-white list" data-ng-repeat="obj in funds | filter : paginate">
+						<div class="row pad-10">
+							<div class="col-md-6 ">
+								<a href="#" data-ng-bind="obj.Name"></a>
+								<p data-ng-bind="obj.TypeName"></p>
+							</div>
+							<div class="col-md-2 "><label class="bottom-10 top-10"> Share Classes</label></div>
+							<div class="col-md-4 ">
+								<select class="form-control bottom-10 top-10">
+									<option value="">All</option><option value="0">A - ACC (USD)</option><option value="1">A - ACC (EUR)</option><option value="2">A - DIST (USD)</option><option value="3">A - DIST (GBP)</option><option value="4">A - INC (EUR)</option><option value="5">B - ACC (USD)</option><option value="6">B - ACC (EUR)</option><option value="7">B - DIST (GBP)</option><option value="8">C - ACC (USD)</option><option value="9">C - DIST (GBP)</option><option value="10">D - ACC (USD)</option><option value="11">D - ACC (EUR)</option><option value="12">I - ACC (USD)</option>
+								</select>
+							</div>
+						</div>
+						<div class="row pad-10">
+							<div class="col-md-12">
+								<table class="table table-striped">
+									<tr>
+										<td>ISIN</td>
+										<td ng-bind="obj.ISIN"></td>
+										<td>Launch Date</td>
+										<td ng-bind="obj.LaunchDate"></td>
+										<td>Yield</td>
+										<td >
+											<span class="text ng-scope ng-binding" ng-if="obj.Yield == ''">-</span>
+											<span class="text ng-scope ng-binding" ng-if="obj.Yield != ''" ng-bind="obj.Yield + '%'">
+											</span>
+										</td>
+									</tr>
+									<tr>
+										<td>Currency</td>
+										<td ng-bind="obj.CurrencyCode"></td>
+										<td>Fund Size</td>
+										<td ng-bind="obj.FundSize | currency:' £'"></td>
+										<td>Date</td>
+										<td ng-bind="obj.Date"></td>
+									</tr>
+									<tr>
+										<td>Asset Class</td>
+										<td ng-bind="obj.AssetClass"></td>
+										<td>Morningstar Ratings</td>
+										<td>
+											<span class="text ng-scope ng-binding" ng-if="obj.Morningstar_Rating == 0">Not Available</span>
+											<span class="text ng-scope ng-binding" ng-if="obj.Morningstar_Rating > 0">
+												<span class="glyphicon glyphicon-star" data-ng-repeat="star in range(obj.Morningstar_Rating)"></span>
+											</span>
+										</td>
+										<td>NAV</td>
+										<td ng-bind="obj.NAV | number:2"></td>
+									</tr>
+									<tr>
+										<td>Region</td>
+										<td ng-bind="obj.Sector"></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+						<hr>
+						<div class="row pad-10 text-blue">
+							<div class="col-md-4">
+								<span class="glyphicon glyphicon-plus"></span>
+								Show Performance & Documents
+							</div>
+							<div class="col-md-offset-2 col-md-6 text-align-right" >
+								<span class="glyphicon glyphicon-star color-grey"></span>
+								<a href="#"><b>ADD TO WATCHLIST </b></a>
+								<a href="#"> | View Factsheet</a>
+							</div>
+						</div>
+						<div class="row pad-10" data-ng-show="false">
+
+						</div>
+					</div>
+					<ul class="pagination">
+					    <li ng-class="{ disabled : currentPage == 1 }">
+					        <a href="" ng-click="setCurrent(1)">&laquo;</a>
+					    </li>
+					    <li ng-repeat="pageNumber in range(totalItems / numPerPage) track by $index" ng-class="{ active : totalItems == numPerPage, disabled : pageNumber == '...' }">
+					        <a href="" ng-click="setCurrent(pageNumber)" ng-bind="pageNumber"></a>
+					    </li>
+
+					    <li ng-class="{ disabled : (currentPage * numPerPage) == totalItems }">
+					        <a href="" ng-click="setCurrent(currentPage)">&raquo;</a>
+					    </li>
+					</ul>
+				</div>
 			</div>
 
 		</div>
