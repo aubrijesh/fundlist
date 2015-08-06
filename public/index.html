@@ -104,21 +104,21 @@
 					<b>TYPE</b>
 					<div class="checkbox" data-ng-repeat="item in filter">
 					  	<label data-ng-if="item.FilterTypeName === 'Type'">
-					  		<input type="checkbox" value="">
+					  		<input type="checkbox" ng-model="confirmed" ng-click="typeCheckboxChange(item.FilterId,$event)">
 					  		<span  data-ng-bind="item.FilterName"></span>
 					  	</label>
 					</div>
 					<hr>
 					<b>SHARE CLASS</b>
-					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Share Class'}" ng-model="ShareClassSelect"></select>
+					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Share Class'}" ng-model="ShareClassSelect" ng-change="ShareClassSelectChange()"><option></option></select>
 					<hr>
 					<b>CURRENCY</b>
-					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Currency'}" ng-model="CurrencySelect"></select>
+					<select class="form-control" ng-options="item.FilterName for item in filter | filter:{FilterTypeName:'Currency'}" ng-model="CurrencySelect" ng-change="CurrencySelectChange()"><option></option></select>
 					<hr>
 					<b>REGION</b>
 					<div class="checkbox" data-ng-repeat="item in filter">
 					  	<label data-ng-if="item.FilterTypeName === 'Region'">
-					  		<input type="checkbox" value="">
+					  		<input type="checkbox" ng-model="region" ng-click="regionCheckboxChange(item.FilterName,$event)">
 					  		<span  data-ng-bind="item.FilterName"></span>
 					  	</label>
 					</div>
@@ -126,7 +126,7 @@
 					<b>MORNINGSTAR RATINGS</b>
 					<div class="checkbox" data-ng-repeat="item in filter">
 					  	<label data-ng-if="item.FilterTypeName === 'Morningstar Rating'">
-					  		<input type="checkbox" value="">
+					  		<input type="checkbox" ng-model="ratings" ng-click="ratingCheckboxChange(item.FilterName,$event)">
 					  		<span class="glyphicon glyphicon-star" data-ng-repeat="star in range(item.FilterName)"></span>
 					  	</label>
 					</div>
@@ -136,7 +136,7 @@
 				</div>
 				<div class="col-md-9 bg-grey">
 					<hr>
-					<div class="bg-white list" data-ng-repeat="obj in funds | filter : paginate">
+					<div class="bg-white list" data-ng-repeat="obj in funds | filter:search | filter : paginate">
 						<div class="row pad-10">
 							<div class="col-md-6 ">
 								<a href="#" data-ng-bind="obj.Name"></a>
@@ -209,7 +209,7 @@
 					<div class="row">
 						<div class="col-md-offset-5 ">
 							<ul class="pagination">
-							    <li ng-class="{ disabled : currentPage == 1 }">
+							    <li ng-class="{ disabled : currentPage == 0 }">
 							        <a href="" ng-click="setCurrent(currentPage - 1)">&laquo;</a>
 							    </li>
 							    <li ng-repeat="pageNumber in range(totalItems / numPerPage) track by $index" ng-class="{ active : pageNumber == currentPage }">
