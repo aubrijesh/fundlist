@@ -92,19 +92,19 @@
 					<b>VIEW</b>
 					<div class="checkbox">
 					  	<label>
-					  		<input type="checkbox" value="">
+					  		<input type="checkbox" class="checkbox" ng-click="watchFilterFunc($event)">
 					  		<span class="glyphicon glyphicon-star color-yellow" aria-hidden="true"></span>
-					  		WatchList (<span data-ng-bind="0"></span>)
+					  		WatchList (<span data-ng-bind="watchlist"></span>)
 					  	</label>
 					</div>
 					<div class="checkbox">
-					  	<label><input type="checkbox" value="">All Funds</label>
+					  	<label><input type="checkbox" ng-click="clearFilter()">All Funds</label>
 					</div>
 					<hr>
 					<b>TYPE</b>
 					<div class="checkbox" data-ng-repeat="item in filter">
 					  	<label data-ng-if="item.FilterTypeName === 'Type'">
-					  		<input type="checkbox" ng-model="confirmed" ng-click="typeCheckboxChange(item.FilterId,$event)">
+					  		<input class="checkbox" type="checkbox" ng-model="confirmed" ng-click="typeCheckboxChange(item.FilterId,$event)">
 					  		<span  data-ng-bind="item.FilterName"></span>
 					  	</label>
 					</div>
@@ -118,7 +118,7 @@
 					<b>REGION</b>
 					<div class="checkbox" data-ng-repeat="item in filter">
 					  	<label data-ng-if="item.FilterTypeName === 'Region'">
-					  		<input type="checkbox" ng-model="region" ng-click="regionCheckboxChange(item.FilterName,$event)">
+					  		<input class="checkbox" type="checkbox" ng-model="region" ng-click="regionCheckboxChange(item.FilterName,$event)">
 					  		<span  data-ng-bind="item.FilterName"></span>
 					  	</label>
 					</div>
@@ -126,7 +126,7 @@
 					<b>MORNINGSTAR RATINGS</b>
 					<div class="checkbox" data-ng-repeat="item in filter">
 					  	<label data-ng-if="item.FilterTypeName === 'Morningstar Rating'">
-					  		<input type="checkbox" ng-model="ratings" ng-click="ratingCheckboxChange(item.FilterName,$event)">
+					  		<input class="checkbox" type="checkbox" ng-model="ratings" ng-click="ratingCheckboxChange(item.FilterName,$event)">
 					  		<span class="glyphicon glyphicon-star" data-ng-repeat="star in range(item.FilterName)"></span>
 					  	</label>
 					</div>
@@ -136,7 +136,7 @@
 				</div>
 				<div class="col-md-9 bg-grey">
 					<hr>
-					<div class="bg-white list" data-ng-repeat="obj in funds | filter:typeFilter | filter:classFilter | filter:currencyFilter | filter:regionFilter | filter:starFilter | filter : paginate">
+					<div class="bg-white list" data-ng-repeat="obj in funds | filter:typeFilter | filter:classFilter | filter:currencyFilter | filter:regionFilter | filter:starFilter | filter:watchFilter | filter : paginate">
 						<div class="row pad-10">
 							<div class="col-md-6 ">
 								<a href="#" data-ng-bind="obj.Name"></a>
@@ -198,9 +198,10 @@
 								<span class="glyphicon glyphicon-plus"></span>
 								Show Performance & Documents
 							</div>
-							<div class="col-md-offset-2 col-md-6 text-align-right" >
+							<div class="col-md-offset-2 col-md-6 text-align-right" ng-init="WATCHLIST[$index] = 0">
 								<span class="glyphicon glyphicon-star color-grey"></span>
-								<a href="#"><b>ADD TO WATCHLIST </b></a>
+								<a href="javascript:void(0)" ng-show="WATCHLIST[$index] == 0" ng-click="addWatchList($index)"><b>ADD TO WATCHLIST </b></a>
+								<a href="javascript:void(0)" ng-show="WATCHLIST[$index] == 1" ng-click="removeWatchList($index)"><b>REMOVE FROM WATCHLIST </b></a>
 								<a href="#"> | View Factsheet</a>
 							</div>
 						</div>

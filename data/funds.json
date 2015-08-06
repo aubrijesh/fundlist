@@ -4,7 +4,7 @@
       "FieldsCount": 31,
       "Rows": [
         {
-          "Recordid": "1",
+          "WATCHLIST":0,"Recordid": "1",
           "ISIN": "LU0355584466",
           "Name": "JPM A (perf) (acc) - USD",
           "FundName": "JPM Africa Equity A (perf) (acc) - USD",
@@ -37,7 +37,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "2",
+          "WATCHLIST":0,"Recordid": "2",
           "ISIN": "LU0355584979",
           "Name": "JPM A (perf) (acc) - EUR",
           "FundName": "JPM Africa Equity A (perf) (acc) - EUR",
@@ -70,7 +70,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "3",
+          "WATCHLIST":0,"Recordid": "3",
           "ISIN": "LU0355584623",
           "Name": "JPM A (perf) (dist) - USD",
           "FundName": "JPM Africa Equity A (perf) (dist) - USD",
@@ -103,7 +103,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "4",
+          "WATCHLIST":0,"Recordid": "4",
           "ISIN": "LU0355584896",
           "Name": "JPM A (perf) (dist) - GBP",
           "FundName": "JPM Africa Equity A (perf) (dist) - GBP",
@@ -136,7 +136,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "5",
+          "WATCHLIST":0,"Recordid": "5",
           "ISIN": "LU0554776046",
           "Name": "JPM A (perf) (inc) - EUR",
           "FundName": "JPM Africa Equity A (perf) (inc) - EUR",
@@ -169,7 +169,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "6",
+          "WATCHLIST":0,"Recordid": "6",
           "ISIN": "LU0355585190",
           "Name": "JPM B (perf) (acc) - USD",
           "FundName": "JPM Africa Equity B (perf) (acc) - USD",
@@ -202,7 +202,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "7",
+          "WATCHLIST":0,"Recordid": "7",
           "ISIN": "LU0935941186",
           "Name": "JPM B (perf) (acc) - EUR",
           "FundName": "JPM Africa Equity B (perf) (acc) - EUR",
@@ -235,7 +235,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "8",
+          "WATCHLIST":0,"Recordid": "8",
           "ISIN": "LU0847324604",
           "Name": "JPM B (perf) (dist) - GBP",
           "FundName": "JPM Africa Equity B (perf) (dist) - GBP",
@@ -268,7 +268,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "9",
+          "WATCHLIST":0,"Recordid": "9",
           "ISIN": "LU0355585273",
           "Name": "JPM C (perf) (acc) - USD",
           "FundName": "JPM Africa Equity C (perf) (acc) - USD",
@@ -301,7 +301,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "10",
+          "WATCHLIST":0,"Recordid": "10",
           "ISIN": "LU0822041561",
           "Name": "JPM C (perf) (dist) - GBP",
           "FundName": "JPM Africa Equity C (perf) (dist) - GBP",
@@ -334,7 +334,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "11",
+          "WATCHLIST":0,"Recordid": "11",
           "ISIN": "LU0355585430",
           "Name": "JPM D (perf) (acc) - USD",
           "FundName": "JPM Africa Equity D (perf) (acc) - USD",
@@ -367,7 +367,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "12",
+          "WATCHLIST":0,"Recordid": "12",
           "ISIN": "LU0355585513",
           "Name": "JPM D (perf) (acc) - EUR",
           "FundName": "JPM Africa Equity D (perf) (acc) - EUR",
@@ -400,7 +400,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "13",
+          "WATCHLIST":0,"Recordid": "13",
           "ISIN": "LU0355585604",
           "Name": "JPM I (perf) (acc) - USD",
           "FundName": "JPM Africa Equity I (perf) (acc) - USD",
@@ -433,7 +433,7 @@
           "TER": "0.91"
         },
         {
-          "Recordid": "14",
+          "WATCHLIST":0,"Recordid": "14",
           "ISIN": "LU0430493139",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Aggregate Bond A (acc) - USD",
@@ -466,7 +466,7 @@
           "TER": "1.0"
         },
         {
-          "Recordid": "15",
+          "WATCHLIST":0,"Recordid": "15",
           "ISIN": "LU0430493212",
           "Name": "JPM A (acc) - EUR (hedged)",
           "FundName": "JPM Aggregate Bond A (acc) - EUR (hedged)",
@@ -499,7 +499,7 @@
           "TER": "1.0"
         },
         {
-          "Recordid": "16",
+          "WATCHLIST":0,"Recordid": "16",
           "ISIN": "LU0430493303",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Aggregate Bond B (acc) - USD",
@@ -532,7 +532,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "17",
+          "WATCHLIST":0,"Recordid": "17",
           "ISIN": "LU0955580542",
           "Name": "JPM B (acc) - EUR (hedged)",
           "FundName": "JPM Aggregate Bond B (acc) - EUR (hedged)",
@@ -565,7 +565,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "18",
+          "WATCHLIST":0,"Recordid": "18",
           "ISIN": "LU0430493485",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM Aggregate Bond C (acc) - USD",
@@ -598,7 +598,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "19",
+          "WATCHLIST":0,"Recordid": "19",
           "ISIN": "LU0430493568",
           "Name": "JPM C (acc) - EUR (hedged)",
           "FundName": "JPM Aggregate Bond C (acc) - EUR (hedged)",
@@ -631,7 +631,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "20",
+          "WATCHLIST":0,"Recordid": "20",
           "ISIN": "LU0654526184",
           "Name": "JPM C (dist) - EUR (hedged)",
           "FundName": "JPM Aggregate Bond C (dist) - EUR (hedged)",
@@ -664,7 +664,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "21",
+          "WATCHLIST":0,"Recordid": "21",
           "ISIN": "LU0872748966",
           "Name": "JPM C (dist) - GBP (hedged)",
           "FundName": "JPM Aggregate Bond C (dist) - GBP (hedged)",
@@ -697,7 +697,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "22",
+          "WATCHLIST":0,"Recordid": "22",
           "ISIN": "LU0876588301",
           "Name": "JPM C (dist) - USD",
           "FundName": "JPM Aggregate Bond C (dist) - USD",
@@ -730,7 +730,7 @@
           "TER": "0.55"
         },
         {
-          "Recordid": "23",
+          "WATCHLIST":0,"Recordid": "23",
           "ISIN": "LU0900194498",
           "Name": "JPM X (dist) - GBP (hedged)",
           "FundName": "JPM Aggregate Bond X (dist) - GBP (hedged)",
@@ -763,7 +763,7 @@
           "TER": "0.1"
         },
         {
-          "Recordid": "24",
+          "WATCHLIST":0,"Recordid": "24",
           "ISIN": "GB00BGSHG957",
           "Name": "JPM A - Net Acc",
           "FundName": "JPM America Equity Fund A - Net Accumulation",
@@ -796,7 +796,7 @@
           "TER": "1.68"
         },
         {
-          "Recordid": "25",
+          "WATCHLIST":0,"Recordid": "25",
           "ISIN": "LU0159042083",
           "Name": "JPM A (acc) - EUR (hedged)",
           "FundName": "JPM America Equity A (acc) - EUR (hedged)",
@@ -829,7 +829,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "26",
+          "WATCHLIST":0,"Recordid": "26",
           "ISIN": "LU0210528500",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM America Equity A (acc) - USD",
@@ -862,7 +862,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "27",
+          "WATCHLIST":0,"Recordid": "27",
           "ISIN": "LU0217390227",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM America Equity A (acc) - EUR",
@@ -895,7 +895,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "28",
+          "WATCHLIST":0,"Recordid": "28",
           "ISIN": "LU0053666078",
           "Name": "JPM A (dist) - USD",
           "FundName": "JPM America Equity A (dist) - USD",
@@ -928,7 +928,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "29",
+          "WATCHLIST":0,"Recordid": "29",
           "ISIN": "LU0117906072",
           "Name": "JPMorgan A (dist) - USD",
           "FundName": "JPMorgan America Equity A (dist) - USD",
@@ -961,7 +961,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "30",
+          "WATCHLIST":0,"Recordid": "30",
           "ISIN": "GB00BGSHG841",
           "Name": "JPM A - Net Inc",
           "FundName": "JPM America Equity Fund A - Net Income",
@@ -994,7 +994,7 @@
           "TER": "1.68"
         },
         {
-          "Recordid": "31",
+          "WATCHLIST":0,"Recordid": "31",
           "ISIN": "GB00BGSHGB71",
           "Name": "JPM B - Net Acc",
           "FundName": "JPM America Equity Fund B - Net Accumulation",
@@ -1027,7 +1027,7 @@
           "TER": "1.18"
         },
         {
-          "Recordid": "32",
+          "WATCHLIST":0,"Recordid": "32",
           "ISIN": "LU0129458765",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM America Equity B (acc) - USD",
@@ -1060,7 +1060,7 @@
           "TER": "0.85"
         },
         {
-          "Recordid": "33",
+          "WATCHLIST":0,"Recordid": "33",
           "ISIN": "LU0847324786",
           "Name": "JPM B (dist) - USD",
           "FundName": "JPM America Equity B (dist) - USD",
@@ -1093,7 +1093,7 @@
           "TER": "0.85"
         },
         {
-          "Recordid": "34",
+          "WATCHLIST":0,"Recordid": "34",
           "ISIN": "GB00BGSHGD95",
           "Name": "JPM C - Net Acc",
           "FundName": "JPM America Equity Fund C - Net Accumulation",
@@ -1126,7 +1126,7 @@
           "TER": "0.93"
         },
         {
-          "Recordid": "35",
+          "WATCHLIST":0,"Recordid": "35",
           "ISIN": "LU0129459060",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM America Equity C (acc) - USD",
@@ -1159,7 +1159,7 @@
           "TER": "0.85"
         },
         {
-          "Recordid": "36",
+          "WATCHLIST":0,"Recordid": "36",
           "ISIN": "LU0289216672",
           "Name": "JPM C (acc) - EUR (hedged)",
           "FundName": "JPM America Equity C (acc) - EUR (hedged)",
@@ -1192,7 +1192,7 @@
           "TER": "0.85"
         },
         {
-          "Recordid": "37",
+          "WATCHLIST":0,"Recordid": "37",
           "ISIN": "LU0822041645",
           "Name": "JPM C (dist) - USD",
           "FundName": "JPM America Equity C (dist) - USD",
@@ -1225,7 +1225,7 @@
           "TER": "0.85"
         },
         {
-          "Recordid": "38",
+          "WATCHLIST":0,"Recordid": "38",
           "ISIN": "GB00BGSHGC88",
           "Name": "JPM C - Net Inc",
           "FundName": "JPM America Equity Fund C - Net Income",
@@ -1258,7 +1258,7 @@
           "TER": "0.93"
         },
         {
-          "Recordid": "39",
+          "WATCHLIST":0,"Recordid": "39",
           "ISIN": "LU0117861202",
           "Name": "JPM D (acc) - USD",
           "FundName": "JPM America Equity D (acc) - USD",
@@ -1291,7 +1291,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "40",
+          "WATCHLIST":0,"Recordid": "40",
           "ISIN": "LU0159059210",
           "Name": "JPM D (acc) - EUR (hedged)",
           "FundName": "JPM America Equity D (acc) - EUR (hedged)",
@@ -1324,7 +1324,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "41",
+          "WATCHLIST":0,"Recordid": "41",
           "ISIN": "LU0217390490",
           "Name": "JPM D (acc) - EUR",
           "FundName": "JPM America Equity D (acc) - EUR",
@@ -1357,7 +1357,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "42",
+          "WATCHLIST":0,"Recordid": "42",
           "ISIN": "LU0143811049",
           "Name": "JPM X (acc) - USD",
           "FundName": "JPM America Equity X (acc) - USD",
@@ -1390,7 +1390,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "43",
+          "WATCHLIST":0,"Recordid": "43",
           "ISIN": "LU0441851309",
           "Name": "JPMorgan A (acc) - USD",
           "FundName": "JPMorgan ASEAN Equity A (acc) - USD",
@@ -1423,7 +1423,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "44",
+          "WATCHLIST":0,"Recordid": "44",
           "ISIN": "LU0441852612",
           "Name": "JPMorgan A (acc) - EUR",
           "FundName": "JPMorgan ASEAN Equity A (acc) - EUR",
@@ -1456,7 +1456,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "45",
+          "WATCHLIST":0,"Recordid": "45",
           "ISIN": "LU0441851481",
           "Name": "JPMorgan B (acc) - USD",
           "FundName": "JPMorgan ASEAN Equity B (acc) - USD",
@@ -1489,7 +1489,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "46",
+          "WATCHLIST":0,"Recordid": "46",
           "ISIN": "LU0441852885",
           "Name": "JPMorgan B (acc) - EUR",
           "FundName": "JPMorgan ASEAN Equity B (acc) - EUR",
@@ -1522,7 +1522,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "47",
+          "WATCHLIST":0,"Recordid": "47",
           "ISIN": "LU0712206050",
           "Name": "JPMorgan B (dist) - GBP",
           "FundName": "JPMorgan ASEAN Equity B (dist) - GBP",
@@ -1555,7 +1555,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "48",
+          "WATCHLIST":0,"Recordid": "48",
           "ISIN": "LU0441851648",
           "Name": "JPMorgan C (acc) - USD",
           "FundName": "JPMorgan ASEAN Equity C (acc) - USD",
@@ -1588,7 +1588,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "49",
+          "WATCHLIST":0,"Recordid": "49",
           "ISIN": "LU0441853008",
           "Name": "JPMorgan C (acc) - EUR",
           "FundName": "JPMorgan ASEAN Equity C (acc) - EUR",
@@ -1621,7 +1621,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "50",
+          "WATCHLIST":0,"Recordid": "50",
           "ISIN": "LU0441851994",
           "Name": "JPMorgan D (acc) - USD",
           "FundName": "JPMorgan ASEAN Equity D (acc) - USD",
@@ -1654,7 +1654,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "51",
+          "WATCHLIST":0,"Recordid": "51",
           "ISIN": "LU0441853263",
           "Name": "JPMorgan D (acc) - EUR",
           "FundName": "JPMorgan ASEAN Equity D (acc) - EUR",
@@ -1687,7 +1687,7 @@
           "TER": "2.55"
         },
         {
-          "Recordid": "52",
+          "WATCHLIST":0,"Recordid": "52",
           "ISIN": "LU0441852299",
           "Name": "JPMorgan I (acc) - USD",
           "FundName": "JPMorgan ASEAN Equity I (acc) - USD",
@@ -1720,7 +1720,7 @@
           "TER": "0.91"
         },
         {
-          "Recordid": "53",
+          "WATCHLIST":0,"Recordid": "53",
           "ISIN": "LU0441852455",
           "Name": "JPMorgan X (acc) - USD",
           "FundName": "JPMorgan ASEAN Equity X (acc) - USD",
@@ -1753,7 +1753,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "54",
+          "WATCHLIST":0,"Recordid": "54",
           "ISIN": "LU0169518387",
           "Name": "JPMorgan A (acc) - USD",
           "FundName": "JPMorgan Asia Equity A (acc) - USD",
@@ -1786,7 +1786,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "55",
+          "WATCHLIST":0,"Recordid": "55",
           "ISIN": "LU0224733013",
           "Name": "JPMorgan A (dist) - USD",
           "FundName": "JPMorgan Asia Equity A (dist) - USD",
@@ -1819,7 +1819,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "56",
+          "WATCHLIST":0,"Recordid": "56",
           "ISIN": "LU0933155292",
           "Name": "JPMorgan B (acc) - USD",
           "FundName": "JPMorgan Asia Equity B (acc) - USD",
@@ -1852,7 +1852,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "57",
+          "WATCHLIST":0,"Recordid": "57",
           "ISIN": "LU0943624584",
           "Name": "JPMorgan C (acc) - USD",
           "FundName": "JPMorgan Asia Equity C (acc) - USD",
@@ -1885,7 +1885,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "58",
+          "WATCHLIST":0,"Recordid": "58",
           "ISIN": "LU0943624741",
           "Name": "JPMorgan C (dist) - USD",
           "FundName": "JPMorgan Asia Equity C (dist) - USD",
@@ -1918,7 +1918,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "59",
+          "WATCHLIST":0,"Recordid": "59",
           "ISIN": "LU0169519435",
           "Name": "JPMorgan X (acc) - USD",
           "FundName": "JPMorgan Asia Equity X (acc) - USD",
@@ -1951,7 +1951,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "60",
+          "WATCHLIST":0,"Recordid": "60",
           "ISIN": "GB0030879695",
           "Name": "JPM A - Net Acc",
           "FundName": "JPM Asia Fund A - Net Accumulation",
@@ -1984,7 +1984,7 @@
           "TER": "1.68"
         },
         {
-          "Recordid": "61",
+          "WATCHLIST":0,"Recordid": "61",
           "ISIN": "GB00B1XMSK57",
           "Name": "JPM A - Net Inc",
           "FundName": "JPM Asia Fund A - Net Income",
@@ -2017,7 +2017,7 @@
           "TER": "1.68"
         },
         {
-          "Recordid": "62",
+          "WATCHLIST":0,"Recordid": "62",
           "ISIN": "GB00B1YWMF73",
           "Name": "JPM B - Net Acc",
           "FundName": "JPM Asia Fund B - Net Accumulation",
@@ -2050,7 +2050,7 @@
           "TER": "1.18"
         },
         {
-          "Recordid": "63",
+          "WATCHLIST":0,"Recordid": "63",
           "ISIN": "GB00B235GR40",
           "Name": "JPM C - Net Acc",
           "FundName": "JPM Asia Fund C - Net Accumulation",
@@ -2083,7 +2083,7 @@
           "TER": "0.93"
         },
         {
-          "Recordid": "64",
+          "WATCHLIST":0,"Recordid": "64",
           "ISIN": "GB00B235H044",
           "Name": "JPM C - Net Inc",
           "FundName": "JPM Asia Fund C - Net Income",
@@ -2116,7 +2116,7 @@
           "TER": "0.93"
         },
         {
-          "Recordid": "65",
+          "WATCHLIST":0,"Recordid": "65",
           "ISIN": "LU0492071401",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Asia Local Currency Debt A (acc) - USD",
@@ -2149,7 +2149,7 @@
           "TER": "1.0"
         },
         {
-          "Recordid": "66",
+          "WATCHLIST":0,"Recordid": "66",
           "ISIN": "LU0210527791",
           "Name": "JPMorgan A (acc) - USD",
           "FundName": "JPMorgan Asia Pacific Income A (acc) - USD",
@@ -2182,7 +2182,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "67",
+          "WATCHLIST":0,"Recordid": "67",
           "ISIN": "LU0117844026",
           "Name": "JPMorgan A (dist) - USD",
           "FundName": "JPMorgan Asia Pacific Income A (dist) - USD",
@@ -2215,7 +2215,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "68",
+          "WATCHLIST":0,"Recordid": "68",
           "ISIN": "LU0129499017",
           "Name": "JPMorgan B (acc) - USD",
           "FundName": "JPMorgan Asia Pacific Income B (acc) - USD",
@@ -2248,7 +2248,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "69",
+          "WATCHLIST":0,"Recordid": "69",
           "ISIN": "LU0822046792",
           "Name": "JPMorgan C (dist) - USD",
           "FundName": "JPMorgan Asia Pacific Income C (dist) - USD",
@@ -2281,7 +2281,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "70",
+          "WATCHLIST":0,"Recordid": "70",
           "ISIN": "LU0117844612",
           "Name": "JPMorgan D (acc) - USD",
           "FundName": "JPMorgan Asia Pacific Income D (acc) - USD",
@@ -2314,7 +2314,7 @@
           "TER": "2.25"
         },
         {
-          "Recordid": "71",
+          "WATCHLIST":0,"Recordid": "71",
           "ISIN": "LU0441854154",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Asia Pacific Strategic Equity A (acc) - USD",
@@ -2347,7 +2347,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "72",
+          "WATCHLIST":0,"Recordid": "72",
           "ISIN": "LU0441855714",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM Asia Pacific Strategic Equity A (acc) - EUR",
@@ -2380,7 +2380,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "73",
+          "WATCHLIST":0,"Recordid": "73",
           "ISIN": "LU0613488591",
           "Name": "JPM A (dist) - USD",
           "FundName": "JPM Asia Pacific Strategic Equity A (dist) - USD",
@@ -2413,7 +2413,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "74",
+          "WATCHLIST":0,"Recordid": "74",
           "ISIN": "LU0932051898",
           "Name": "JPM A (dist) - GBP",
           "FundName": "JPM Asia Pacific Strategic Equity A (dist) - GBP",
@@ -2446,7 +2446,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "75",
+          "WATCHLIST":0,"Recordid": "75",
           "ISIN": "LU0441854311",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Asia Pacific Strategic Equity B (acc) - USD",
@@ -2479,7 +2479,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "76",
+          "WATCHLIST":0,"Recordid": "76",
           "ISIN": "LU0441855987",
           "Name": "JPM B (acc) - EUR",
           "FundName": "JPM Asia Pacific Strategic Equity B (acc) - EUR",
@@ -2512,7 +2512,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "77",
+          "WATCHLIST":0,"Recordid": "77",
           "ISIN": "LU0847324943",
           "Name": "JPM B (dist) - USD",
           "FundName": "JPM Asia Pacific Strategic Equity B (dist) - USD",
@@ -2545,7 +2545,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "78",
+          "WATCHLIST":0,"Recordid": "78",
           "ISIN": "LU0441854584",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM Asia Pacific Strategic Equity C (acc) - USD",
@@ -2578,7 +2578,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "79",
+          "WATCHLIST":0,"Recordid": "79",
           "ISIN": "LU0441856100",
           "Name": "JPM C (acc) - EUR",
           "FundName": "JPM Asia Pacific Strategic Equity C (acc) - EUR",
@@ -2611,7 +2611,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "80",
+          "WATCHLIST":0,"Recordid": "80",
           "ISIN": "LU0441855474",
           "Name": "JPM X (acc) - USD",
           "FundName": "JPM Asia Pacific Strategic Equity X (acc) - USD",
@@ -2644,7 +2644,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "81",
+          "WATCHLIST":0,"Recordid": "81",
           "ISIN": "GB00BD3Q6G30",
           "Name": "JPM C - Net Acc",
           "FundName": "JPM Balanced Managed Fund C - Net Accumulation",
@@ -2677,7 +2677,7 @@
           "TER": "0.83"
         },
         {
-          "Recordid": "82",
+          "WATCHLIST":0,"Recordid": "82",
           "ISIN": "GB00BD3Q6H47",
           "Name": "JPM C - Net Inc",
           "FundName": "JPM Balanced Managed Fund C - Net Income",
@@ -2710,7 +2710,7 @@
           "TER": "0.83"
         },
         {
-          "Recordid": "83",
+          "WATCHLIST":0,"Recordid": "83",
           "ISIN": "GB00BD3Q6J60",
           "Name": "JPM I - Net Acc",
           "FundName": "JPM Balanced Managed Fund I - Net Accumulation",
@@ -2743,7 +2743,7 @@
           "TER": "0.65"
         },
         {
-          "Recordid": "84",
+          "WATCHLIST":0,"Recordid": "84",
           "ISIN": "LU0318934451",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Brazil Equity A (acc) - USD",
@@ -2776,7 +2776,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "85",
+          "WATCHLIST":0,"Recordid": "85",
           "ISIN": "LU0582659420",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM Brazil Equity A (acc) - EUR",
@@ -2809,7 +2809,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "86",
+          "WATCHLIST":0,"Recordid": "86",
           "ISIN": "LU0318934535",
           "Name": "JPM A (dist) - USD",
           "FundName": "JPM Brazil Equity A (dist) - USD",
@@ -2842,7 +2842,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "87",
+          "WATCHLIST":0,"Recordid": "87",
           "ISIN": "LU0336750111",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Brazil Equity B (acc) - USD",
@@ -2875,7 +2875,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "88",
+          "WATCHLIST":0,"Recordid": "88",
           "ISIN": "LU0318936407",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM Brazil Equity C (acc) - USD",
@@ -2908,7 +2908,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "89",
+          "WATCHLIST":0,"Recordid": "89",
           "ISIN": "LU0318936589",
           "Name": "JPM D (acc) - USD",
           "FundName": "JPM Brazil Equity D (acc) - USD",
@@ -2941,7 +2941,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "90",
+          "WATCHLIST":0,"Recordid": "90",
           "ISIN": "LU0522352789",
           "Name": "JPM D (acc) - EUR",
           "FundName": "JPM Brazil Equity D (acc) - EUR",
@@ -2974,7 +2974,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "91",
+          "WATCHLIST":0,"Recordid": "91",
           "ISIN": "LU0318936662",
           "Name": "JPM I (acc) - USD",
           "FundName": "JPM Brazil Equity I (acc) - USD",
@@ -3007,7 +3007,7 @@
           "TER": "1.01"
         },
         {
-          "Recordid": "92",
+          "WATCHLIST":0,"Recordid": "92",
           "ISIN": "GB00B09RGK38",
           "Name": "JPM A - Net Acc",
           "FundName": "JPM Cautious Managed Fund A - Net Accumulation",
@@ -3040,7 +3040,7 @@
           "TER": "1.43"
         },
         {
-          "Recordid": "93",
+          "WATCHLIST":0,"Recordid": "93",
           "ISIN": "GB00B09RGL45",
           "Name": "JPM A - Net Inc",
           "FundName": "JPM Cautious Managed Fund A - Net Income",
@@ -3073,7 +3073,7 @@
           "TER": "1.43"
         },
         {
-          "Recordid": "94",
+          "WATCHLIST":0,"Recordid": "94",
           "ISIN": "GB00B1YWMZ79",
           "Name": "JPM B - Net Acc",
           "FundName": "JPM Cautious Managed Fund B - Net Accumulation",
@@ -3106,7 +3106,7 @@
           "TER": "0.98"
         },
         {
-          "Recordid": "95",
+          "WATCHLIST":0,"Recordid": "95",
           "ISIN": "GB00B235HC61",
           "Name": "JPM C - Net Acc",
           "FundName": "JPM Cautious Managed Fund C - Net Accumulation",
@@ -3139,7 +3139,7 @@
           "TER": "0.83"
         },
         {
-          "Recordid": "96",
+          "WATCHLIST":0,"Recordid": "96",
           "ISIN": "GB00B40F7451",
           "Name": "JPM C - Gross Acc",
           "FundName": "JPM Cautious Managed Fund C - Gross Accumulation",
@@ -3172,7 +3172,7 @@
           "TER": "0.83"
         },
         {
-          "Recordid": "97",
+          "WATCHLIST":0,"Recordid": "97",
           "ISIN": "GB00B235HG00",
           "Name": "JPM C - Net Inc",
           "FundName": "JPM Cautious Managed Fund C - Net Income",
@@ -3205,7 +3205,7 @@
           "TER": "0.83"
         },
         {
-          "Recordid": "98",
+          "WATCHLIST":0,"Recordid": "98",
           "ISIN": "GB00B09RGM51",
           "Name": "JPM I - Net Acc",
           "FundName": "JPM Cautious Managed Fund I - Net Accumulation",
@@ -3238,7 +3238,7 @@
           "TER": "0.65"
         },
         {
-          "Recordid": "99",
+          "WATCHLIST":0,"Recordid": "99",
           "ISIN": "GB00B1KVJ023",
           "Name": "JPM I - Gross Acc",
           "FundName": "JPM Cautious Managed Fund I - Gross Accumulation",
@@ -3271,7 +3271,7 @@
           "TER": "0.65"
         },
         {
-          "Recordid": "100",
+          "WATCHLIST":0,"Recordid": "100",
           "ISIN": "GB00B09RGN68",
           "Name": "JPM I - Net Inc",
           "FundName": "JPM Cautious Managed Fund I - Net Income",
@@ -3304,7 +3304,7 @@
           "TER": "0.65"
         },
         {
-          "Recordid": "101",
+          "WATCHLIST":0,"Recordid": "101",
           "ISIN": "GB00B23VZR59",
           "Name": "JPM X - Gross Acc",
           "FundName": "JPM Cautious Managed Fund X - Gross Accumulation",
@@ -3337,7 +3337,7 @@
           "TER": "0.06"
         },
         {
-          "Recordid": "102",
+          "WATCHLIST":0,"Recordid": "102",
           "ISIN": "LU1161826968",
           "Name": "JPM C (dist) - GBP (hedged)",
           "FundName": "JPM China Bond C (dist) - GBP (hedged)",
@@ -3370,7 +3370,7 @@
           "TER": "0.65"
         },
         {
-          "Recordid": "103",
+          "WATCHLIST":0,"Recordid": "103",
           "ISIN": "LU0210526637",
           "Name": "JPMorgan A (acc) - USD",
           "FundName": "JPMorgan China A (acc) - USD",
@@ -3403,7 +3403,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "104",
+          "WATCHLIST":0,"Recordid": "104",
           "ISIN": "LU0051755006",
           "Name": "JPMorgan A (dist) - USD",
           "FundName": "JPMorgan China A (dist) - USD",
@@ -3436,7 +3436,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "105",
+          "WATCHLIST":0,"Recordid": "105",
           "ISIN": "LU0129472592",
           "Name": "JPMorgan B (acc) - USD",
           "FundName": "JPMorgan China B (acc) - USD",
@@ -3469,7 +3469,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "106",
+          "WATCHLIST":0,"Recordid": "106",
           "ISIN": "LU0847322657",
           "Name": "JPMorgan B (dist) - USD",
           "FundName": "JPMorgan China B (dist) - USD",
@@ -3502,7 +3502,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "107",
+          "WATCHLIST":0,"Recordid": "107",
           "ISIN": "LU0129472758",
           "Name": "JPMorgan C (acc) - USD",
           "FundName": "JPMorgan China C (acc) - USD",
@@ -3535,7 +3535,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "108",
+          "WATCHLIST":0,"Recordid": "108",
           "ISIN": "LU0822046875",
           "Name": "JPMorgan C (dist) - USD",
           "FundName": "JPMorgan China C (dist) - USD",
@@ -3568,7 +3568,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "109",
+          "WATCHLIST":0,"Recordid": "109",
           "ISIN": "LU0117867159",
           "Name": "JPMorgan D (acc) - USD",
           "FundName": "JPMorgan China D (acc) - USD",
@@ -3601,7 +3601,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "110",
+          "WATCHLIST":0,"Recordid": "110",
           "ISIN": "LU0522352607",
           "Name": "JPMorgan D (acc) - EUR",
           "FundName": "JPMorgan China D (acc) - EUR",
@@ -3634,7 +3634,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "111",
+          "WATCHLIST":0,"Recordid": "111",
           "ISIN": "LU0143809738",
           "Name": "JPMorgan X (acc) - USD",
           "FundName": "JPMorgan China X (acc) - USD",
@@ -3667,7 +3667,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "112",
+          "WATCHLIST":0,"Recordid": "112",
           "ISIN": "GB00B7G8VY77",
           "Name": "JPM A - Net Acc",
           "FundName": "JPM Diversified Real Return Fund A - Net Accumulation",
@@ -3700,7 +3700,7 @@
           "TER": "1.43"
         },
         {
-          "Recordid": "113",
+          "WATCHLIST":0,"Recordid": "113",
           "ISIN": "GB00B7D69G24",
           "Name": "JPM A - Net Inc",
           "FundName": "JPM Diversified Real Return Fund A - Net Income",
@@ -3733,7 +3733,7 @@
           "TER": "1.43"
         },
         {
-          "Recordid": "114",
+          "WATCHLIST":0,"Recordid": "114",
           "ISIN": "GB00B7G8WZ59",
           "Name": "JPM B - Net Acc",
           "FundName": "JPM Diversified Real Return Fund B - Net Accumulation",
@@ -3766,7 +3766,7 @@
           "TER": "0.98"
         },
         {
-          "Recordid": "115",
+          "WATCHLIST":0,"Recordid": "115",
           "ISIN": "GB00B6TYHV47",
           "Name": "JPM C - Net Acc",
           "FundName": "JPM Diversified Real Return Fund C - Net Accumulation",
@@ -3799,7 +3799,7 @@
           "TER": "0.83"
         },
         {
-          "Recordid": "116",
+          "WATCHLIST":0,"Recordid": "116",
           "ISIN": "LU0875415688",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Diversified Risk A (acc) - USD",
@@ -3832,7 +3832,7 @@
           "TER": "1.55"
         },
         {
-          "Recordid": "117",
+          "WATCHLIST":0,"Recordid": "117",
           "ISIN": "LU0210529144",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM Eastern Europe Equity A (acc) - EUR",
@@ -3865,7 +3865,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "118",
+          "WATCHLIST":0,"Recordid": "118",
           "ISIN": "LU0634316219",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Eastern Europe Equity A (acc) - USD",
@@ -3898,7 +3898,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "119",
+          "WATCHLIST":0,"Recordid": "119",
           "ISIN": "LU0051759099",
           "Name": "JPM A (dist) - EUR",
           "FundName": "JPM Eastern Europe Equity A (dist) - EUR",
@@ -3931,7 +3931,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "120",
+          "WATCHLIST":0,"Recordid": "120",
           "ISIN": "LU0117907716",
           "Name": "JPMorgan A (dist) - EUR",
           "FundName": "JPMorgan Eastern Europe Equity A (dist) - EUR",
@@ -3964,7 +3964,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "121",
+          "WATCHLIST":0,"Recordid": "121",
           "ISIN": "LU0129488838",
           "Name": "JPM B (acc) - EUR",
           "FundName": "JPM Eastern Europe Equity B (acc) - EUR",
@@ -3997,7 +3997,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "122",
+          "WATCHLIST":0,"Recordid": "122",
           "ISIN": "LU0847325163",
           "Name": "JPM B (dist) - EUR",
           "FundName": "JPM Eastern Europe Equity B (dist) - EUR",
@@ -4030,7 +4030,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "123",
+          "WATCHLIST":0,"Recordid": "123",
           "ISIN": "LU0129489489",
           "Name": "JPM C (acc) - EUR",
           "FundName": "JPM Eastern Europe Equity C (acc) - EUR",
@@ -4063,7 +4063,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "124",
+          "WATCHLIST":0,"Recordid": "124",
           "ISIN": "LU0822041991",
           "Name": "JPM C (dist) - EUR",
           "FundName": "JPM Eastern Europe Equity C (dist) - EUR",
@@ -4096,7 +4096,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "125",
+          "WATCHLIST":0,"Recordid": "125",
           "ISIN": "LU0117895796",
           "Name": "JPM D (acc) - EUR",
           "FundName": "JPM Eastern Europe Equity D (acc) - EUR",
@@ -4129,7 +4129,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "126",
+          "WATCHLIST":0,"Recordid": "126",
           "ISIN": "LU0248043308",
           "Name": "JPM I (acc) - EUR",
           "FundName": "JPM Eastern Europe Equity I (acc) - EUR",
@@ -4162,7 +4162,7 @@
           "TER": "1.01"
         },
         {
-          "Recordid": "127",
+          "WATCHLIST":0,"Recordid": "127",
           "ISIN": "LU0143811395",
           "Name": "JPM X (acc) - EUR",
           "FundName": "JPM Eastern Europe Equity X (acc) - EUR",
@@ -4195,7 +4195,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "128",
+          "WATCHLIST":0,"Recordid": "128",
           "ISIN": "LU0210529573",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity A (acc) - USD",
@@ -4228,7 +4228,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "129",
+          "WATCHLIST":0,"Recordid": "129",
           "ISIN": "LU0401357586",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity A (acc) - EUR",
@@ -4261,7 +4261,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "130",
+          "WATCHLIST":0,"Recordid": "130",
           "ISIN": "LU0074838565",
           "Name": "JPM A (dist) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity A (dist) - USD",
@@ -4294,7 +4294,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "131",
+          "WATCHLIST":0,"Recordid": "131",
           "ISIN": "LU0129489729",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity B (acc) - USD",
@@ -4327,7 +4327,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "132",
+          "WATCHLIST":0,"Recordid": "132",
           "ISIN": "LU0847325247",
           "Name": "JPM B (dist) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity B (dist) - USD",
@@ -4360,7 +4360,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "133",
+          "WATCHLIST":0,"Recordid": "133",
           "ISIN": "LU0129490065",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity C (acc) - USD",
@@ -4393,7 +4393,7 @@
           "TER": "1.05"
         },
         {
-          "Recordid": "134",
+          "WATCHLIST":0,"Recordid": "134",
           "ISIN": "LU0117896091",
           "Name": "JPM D (acc) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity D (acc) - USD",
@@ -4426,7 +4426,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "135",
+          "WATCHLIST":0,"Recordid": "135",
           "ISIN": "LU0522352359",
           "Name": "JPM D (acc) - EUR",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity D (acc) - EUR",
@@ -4459,7 +4459,7 @@
           "TER": "2.8"
         },
         {
-          "Recordid": "136",
+          "WATCHLIST":0,"Recordid": "136",
           "ISIN": "LU0143811478",
           "Name": "JPM X (acc) - USD",
           "FundName": "JPM Emerging Europe, Middle East and Africa Equity X (acc) - USD",
@@ -4492,7 +4492,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "137",
+          "WATCHLIST":0,"Recordid": "137",
           "ISIN": "LU1155791426",
           "Name": "JPM I (acc) - GBP (hedged)",
           "FundName": "JPM Emerging Markets Aggregate Bond I (acc) - GBP (hedged)",
@@ -4525,7 +4525,7 @@
           "TER": "0.66"
         },
         {
-          "Recordid": "138",
+          "WATCHLIST":0,"Recordid": "138",
           "ISIN": "LU0431994713",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Emerging Markets Bond A (acc) - USD",
@@ -4558,7 +4558,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "139",
+          "WATCHLIST":0,"Recordid": "139",
           "ISIN": "LU0431994986",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Emerging Markets Bond B (acc) - USD",
@@ -4591,7 +4591,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "140",
+          "WATCHLIST":0,"Recordid": "140",
           "ISIN": "LU0431995280",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM Emerging Markets Bond C (acc) - USD",
@@ -4624,7 +4624,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "141",
+          "WATCHLIST":0,"Recordid": "141",
           "ISIN": "LU0431995876",
           "Name": "JPM D (acc) - USD",
           "FundName": "JPM Emerging Markets Bond D (acc) - USD",
@@ -4657,7 +4657,7 @@
           "TER": "2.15"
         },
         {
-          "Recordid": "142",
+          "WATCHLIST":0,"Recordid": "142",
           "ISIN": "LU0431996254",
           "Name": "JPM I (acc) - USD",
           "FundName": "JPM Emerging Markets Bond I (acc) - USD",
@@ -4690,7 +4690,7 @@
           "TER": "0.66"
         },
         {
-          "Recordid": "143",
+          "WATCHLIST":0,"Recordid": "143",
           "ISIN": "LU0431996684",
           "Name": "JPM X (acc) - USD",
           "FundName": "JPM Emerging Markets Bond X (acc) - USD",
@@ -4723,7 +4723,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "144",
+          "WATCHLIST":0,"Recordid": "144",
           "ISIN": "LU0552548421",
           "Name": "JPM X (acc) - GBP (hedged)",
           "FundName": "JPM Emerging Markets Bond X (acc) - GBP (hedged)",
@@ -4756,7 +4756,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "145",
+          "WATCHLIST":0,"Recordid": "145",
           "ISIN": "LU0512127548",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Emerging Markets Corporate Bond A (acc) - USD",
@@ -4789,7 +4789,7 @@
           "TER": "1.3"
         },
         {
-          "Recordid": "146",
+          "WATCHLIST":0,"Recordid": "146",
           "ISIN": "LU0512127621",
           "Name": "JPM A (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond A (acc) - EUR (hedged)",
@@ -4822,7 +4822,7 @@
           "TER": "1.3"
         },
         {
-          "Recordid": "147",
+          "WATCHLIST":0,"Recordid": "147",
           "ISIN": "LU0956099021",
           "Name": "JPM A (acc) - USD - Duration (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond A (acc) - USD - Duration (hedged)",
@@ -4855,7 +4855,7 @@
           "TER": "1.3"
         },
         {
-          "Recordid": "148",
+          "WATCHLIST":0,"Recordid": "148",
           "ISIN": "LU0560335993",
           "Name": "JPM A (inc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond A (inc) - EUR (hedged)",
@@ -4888,7 +4888,7 @@
           "TER": "1.3"
         },
         {
-          "Recordid": "149",
+          "WATCHLIST":0,"Recordid": "149",
           "ISIN": "LU0512127894",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Emerging Markets Corporate Bond B (acc) - USD",
@@ -4921,7 +4921,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "150",
+          "WATCHLIST":0,"Recordid": "150",
           "ISIN": "LU0861977238",
           "Name": "JPM B (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond B (acc) - EUR (hedged)",
@@ -4954,7 +4954,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "151",
+          "WATCHLIST":0,"Recordid": "151",
           "ISIN": "LU1026157781",
           "Name": "JPM B (dist) - GBP (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond B (dist) - GBP (hedged)",
@@ -4987,7 +4987,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "152",
+          "WATCHLIST":0,"Recordid": "152",
           "ISIN": "LU0512127977",
           "Name": "JPM C (acc) - USD",
           "FundName": "JPM Emerging Markets Corporate Bond C (acc) - USD",
@@ -5020,7 +5020,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "153",
+          "WATCHLIST":0,"Recordid": "153",
           "ISIN": "LU0956099377",
           "Name": "JPM C (acc) - USD - Duration (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond C (acc) - USD - Duration (hedged)",
@@ -5053,7 +5053,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "154",
+          "WATCHLIST":0,"Recordid": "154",
           "ISIN": "LU1009069961",
           "Name": "JPM C (dist) - USD",
           "FundName": "JPM Emerging Markets Corporate Bond C (dist) - USD",
@@ -5086,7 +5086,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "155",
+          "WATCHLIST":0,"Recordid": "155",
           "ISIN": "LU1021315921",
           "Name": "JPM C (dist) - GBP (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond C (dist) - GBP (hedged)",
@@ -5119,7 +5119,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "156",
+          "WATCHLIST":0,"Recordid": "156",
           "ISIN": "LU0512128355",
           "Name": "JPM D (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Corporate Bond D (acc) - EUR (hedged)",
@@ -5152,7 +5152,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "157",
+          "WATCHLIST":0,"Recordid": "157",
           "ISIN": "LU0512128512",
           "Name": "JPM X (acc) - USD",
           "FundName": "JPM Emerging Markets Corporate Bond X (acc) - USD",
@@ -5185,7 +5185,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "158",
+          "WATCHLIST":0,"Recordid": "158",
           "ISIN": "LU0210532528",
           "Name": "JPM A (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt A (acc) - EUR (hedged)",
@@ -5218,7 +5218,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "159",
+          "WATCHLIST":0,"Recordid": "159",
           "ISIN": "LU0499112034",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Emerging Markets Debt A (acc) - USD",
@@ -5251,7 +5251,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "160",
+          "WATCHLIST":0,"Recordid": "160",
           "ISIN": "LU0872703946",
           "Name": "JPM A (acc) - GBP (hedged)",
           "FundName": "JPM Emerging Markets Debt A (acc) - GBP (hedged)",
@@ -5284,7 +5284,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "161",
+          "WATCHLIST":0,"Recordid": "161",
           "ISIN": "LU1017435600",
           "Name": "JPM A (dist) - GBP",
           "FundName": "JPM Emerging Markets Debt A (dist) - GBP",
@@ -5317,7 +5317,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "162",
+          "WATCHLIST":0,"Recordid": "162",
           "ISIN": "LU0072845869",
           "Name": "JPM A (inc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt A (inc) - EUR (hedged)",
@@ -5350,7 +5350,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "163",
+          "WATCHLIST":0,"Recordid": "163",
           "ISIN": "LU0784324542",
           "Name": "JPM A (inc) - USD",
           "FundName": "JPM Emerging Markets Debt A (inc) - USD",
@@ -5383,7 +5383,7 @@
           "TER": "1.45"
         },
         {
-          "Recordid": "164",
+          "WATCHLIST":0,"Recordid": "164",
           "ISIN": "LU0217389997",
           "Name": "JPM B (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt B (acc) - EUR (hedged)",
@@ -5416,7 +5416,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "165",
+          "WATCHLIST":0,"Recordid": "165",
           "ISIN": "LU0773644637",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Emerging Markets Debt B (acc) - USD",
@@ -5449,7 +5449,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "166",
+          "WATCHLIST":0,"Recordid": "166",
           "ISIN": "LU0951368009",
           "Name": "JPM B (inc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt B (inc) - EUR (hedged)",
@@ -5482,7 +5482,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "167",
+          "WATCHLIST":0,"Recordid": "167",
           "ISIN": "LU0217390060",
           "Name": "JPM C (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt C (acc) - EUR (hedged)",
@@ -5515,7 +5515,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "168",
+          "WATCHLIST":0,"Recordid": "168",
           "ISIN": "LU0783491409",
           "Name": "JPM C (dist) - USD",
           "FundName": "JPM Emerging Markets Debt C (dist) - USD",
@@ -5548,7 +5548,7 @@
           "TER": "0.7"
         },
         {
-          "Recordid": "169",
+          "WATCHLIST":0,"Recordid": "169",
           "ISIN": "LU0117898204",
           "Name": "JPM D (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt D (acc) - EUR (hedged)",
@@ -5581,7 +5581,7 @@
           "TER": "2.15"
         },
         {
-          "Recordid": "170",
+          "WATCHLIST":0,"Recordid": "170",
           "ISIN": "LU0248063322",
           "Name": "JPM I (inc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt I (inc) - EUR (hedged)",
@@ -5614,7 +5614,7 @@
           "TER": "0.66"
         },
         {
-          "Recordid": "171",
+          "WATCHLIST":0,"Recordid": "171",
           "ISIN": "LU0217390144",
           "Name": "JPM X (acc) - EUR (hedged)",
           "FundName": "JPM Emerging Markets Debt X (acc) - EUR (hedged)",
@@ -5647,7 +5647,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "172",
+          "WATCHLIST":0,"Recordid": "172",
           "ISIN": "LU0799658801",
           "Name": "JPM X (dist) - USD",
           "FundName": "JPM Emerging Markets Debt X (dist) - USD",
@@ -5680,7 +5680,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "173",
+          "WATCHLIST":0,"Recordid": "173",
           "ISIN": "LU0594426784",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM Emerging Markets Diversified Equity A (acc) - EUR",
@@ -5713,7 +5713,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "174",
+          "WATCHLIST":0,"Recordid": "174",
           "ISIN": "LU0535954134",
           "Name": "JPM C (acc) - EUR",
           "FundName": "JPM Emerging Markets Diversified Equity C (acc) - EUR",
@@ -5746,7 +5746,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "175",
+          "WATCHLIST":0,"Recordid": "175",
           "ISIN": "LU0531009297",
           "Name": "JPM I (acc) - USD",
           "FundName": "JPM Emerging Markets Diversified Equity I (acc) - USD",
@@ -5779,7 +5779,7 @@
           "TER": "0.91"
         },
         {
-          "Recordid": "176",
+          "WATCHLIST":0,"Recordid": "176",
           "ISIN": "LU0531008992",
           "Name": "JPM X (acc) - EUR",
           "FundName": "JPM Emerging Markets Diversified Equity X (acc) - EUR",
@@ -5812,7 +5812,7 @@
           "TER": "0.15"
         },
         {
-          "Recordid": "177",
+          "WATCHLIST":0,"Recordid": "177",
           "ISIN": "LU0862449427",
           "Name": "JPM A (acc) - USD",
           "FundName": "JPM Emerging Markets Dividend A (acc) - USD",
@@ -5845,7 +5845,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "178",
+          "WATCHLIST":0,"Recordid": "178",
           "ISIN": "LU0862449690",
           "Name": "JPM A (acc) - EUR",
           "FundName": "JPM Emerging Markets Dividend A (acc) - EUR",
@@ -5878,7 +5878,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "179",
+          "WATCHLIST":0,"Recordid": "179",
           "ISIN": "LU0938962627",
           "Name": "JPM A (dist) - GBP",
           "FundName": "JPM Emerging Markets Dividend A (dist) - GBP",
@@ -5911,7 +5911,7 @@
           "TER": "1.8"
         },
         {
-          "Recordid": "180",
+          "WATCHLIST":0,"Recordid": "180",
           "ISIN": "LU0878583243",
           "Name": "JPM B (acc) - USD",
           "FundName": "JPM Emerging Markets Dividend B (acc) - USD",
@@ -5944,7 +5944,7 @@
           "TER": "0.95"
         },
         {
-          "Recordid": "181",
+          "WATCHLIST":0,"Recordid": "181",
           "ISIN": "LU0862450359",
           "Name": "JPM C (acc) - EUR",
           "FundName": "JPM Emerging Markets Dividend C (acc) - EUR",
