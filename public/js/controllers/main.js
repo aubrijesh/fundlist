@@ -19,13 +19,21 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
     $scope.currentPage = 0;
     $scope.numPerPage = 25;
 
+    $scope.typeaheadSelect = function(val) {
+        $scope.searchbox = val;
+    };
+
     $scope.loosefocus = function(){
         $scope.typeahead = [];
         $scope.searchbox = "";
     };
 
     $scope.keyPress = function($event){
-        $scope.typeahead = $filter('filter')($scope.funds, {"Name": $scope.searchbox});
+        if($scope.searchbox === ""){
+            $scope.typeahead = [];
+        }else{
+            $scope.typeahead = $filter('filter')($scope.funds, {"Name": $scope.searchbox});
+        }
     };
 
     $scope.watchFilterFunc = function($event){
@@ -41,13 +49,13 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
         $scope.funds[index].WATCHLIST = 1;
         $scope.WATCHLIST[index] = 1;
         $scope.watchlist++;
-    }
+    };
 
     $scope.removeWatchList = function(index){
         $scope.funds[index].WATCHLIST = 0;
         $scope.WATCHLIST[index] = 0;
         $scope.watchlist--;
-    }
+    };
 
     $scope.clearFilter  = function(){
         $scope.typeFilter = {};

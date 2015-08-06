@@ -103,7 +103,7 @@
 			<div class="row top-40">
 				<div class="col-md-offset-2 col-md-8">
 					<div class="input-group">
-						<input type="text" ng-blur="loosefocus()" class="form-control" ng-model="searchbox" ng-keyup="keyPress($event)" placeholder="Search Fund Name or ISIN">
+						<input type="text" autocomplete="off" ng-blur="loosefocus()" class="form-control" ng-model="searchbox" ng-keyup="keyPress($event)" placeholder="Search Fund Name or ISIN">
 						<span class="input-group-btn">
 							<button class="btn btn-warning" type="button">
 								<i class="glyphicon glyphicon-search"></i>
@@ -112,7 +112,7 @@
 						</span>
 					</div><!-- /input-group -->
 					<ul class="typeahead">
-						<li ng-repeat="a in typeahead | filter : 5" ng-bind="a.FundName"></li>
+						<li ng-repeat="a in typeahead" ng-bind="a.FundName" ng-click="typeaheadSelect()"></li>
 					</ul>
 				</div>
 			</div>
