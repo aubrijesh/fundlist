@@ -11,9 +11,20 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', function(
     $scope.currentPage = 0;
     $scope.numPerPage = 25;
 
+    $scope.$watch('search', function() {
+       if(Object.keys($scope.search).length){
+            setTimeout(function(){
+                $scope.$apply(function () {
+                    $scope.numPerPage = 25;
+                    console.log("1");
+                });
+            }, 5000);
+        }
+    });
+
     $scope.typeCheckboxChange = function(val,$event){
-        $scope.numPerPage = $scope.totalItems;
         $scope.search = {};
+        $scope.numPerPage = $scope.totalItems;
         var checkbox = $event.target;
         if(checkbox.checked){
             $scope.search['TypeId'] = val;
@@ -23,24 +34,24 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', function(
     };
 
     $scope.ShareClassSelectChange = function(){
-        $scope.numPerPage = $scope.totalItems;
         $scope.search = {};
+        $scope.numPerPage = $scope.totalItems;
         if($scope.ShareClassSelect != null){
             $scope.search['Shareclass'] = $scope.ShareClassSelect.FilterName;
         }
     };
 
     $scope.CurrencySelectChange = function(){
-        $scope.numPerPage = $scope.totalItems;
         $scope.search = {};
+        $scope.numPerPage = $scope.totalItems;
         if($scope.CurrencySelect != null){
             $scope.search['CurrencyCode'] = $scope.CurrencySelect.FilterId;
         }
     };
 
     $scope.regionCheckboxChange = function(val,$event){
-        $scope.numPerPage = $scope.totalItems;
         $scope.search = {};
+        $scope.numPerPage = $scope.totalItems;
         var checkbox = $event.target;
 
         if(checkbox.checked){
@@ -51,8 +62,8 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', function(
     };
 
     $scope.ratingCheckboxChange = function(val,$event){
-        $scope.numPerPage = $scope.totalItems;
         $scope.search = {};
+        $scope.numPerPage = $scope.totalItems;
         var checkbox = $event.target;
 
         if(checkbox.checked){
