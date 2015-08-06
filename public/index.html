@@ -50,6 +50,37 @@
 			.text-align-right {
 				text-align: right;
 			}
+			.typeahead {
+				position: absolute;
+				z-index: 1010;
+				width: 90%;
+				border: 1px solid #aaa;
+				border-top: 0;
+				background: #fff;
+				box-shadow: 0 4px 5px rgba(0,0,0,0.15);
+				overflow-x: hidden;
+				overflow-y: auto;
+				margin: 0 4px 4px 0;
+				padding: 0 0 0 4px;
+				max-height: 240px;
+			}
+			.typeahead li {
+				display: list-item;
+				cursor: pointer;
+				margin: 0;
+				padding: 5px 6px;
+				list-style: none;
+				line-height: 15px;
+				text-align: left;
+				text-overflow: ellipsis;
+				font-family: "Amplitude Light";
+			}
+
+			.typeahead li:hover {
+				background-color: #f6821f;
+				color: #d3d3d3;
+			}
+
 		</style>
 		<!-- JAVASCRIPT -->
 		<script type="text/javascript" src="/js/jquery.min.js"></script><!-- load Jquery-->
@@ -72,7 +103,7 @@
 			<div class="row top-40">
 				<div class="col-md-offset-2 col-md-8">
 					<div class="input-group">
-						<input type="text" class="form-control" placeholder="Search Fund Name or ISIN">
+						<input type="text" ng-blur="loosefocus()" class="form-control" ng-model="searchbox" ng-keyup="keyPress($event)" placeholder="Search Fund Name or ISIN">
 						<span class="input-group-btn">
 							<button class="btn btn-warning" type="button">
 								<i class="glyphicon glyphicon-search"></i>
@@ -80,6 +111,9 @@
 							</button>
 						</span>
 					</div><!-- /input-group -->
+					<ul class="typeahead">
+						<li ng-repeat="a in typeahead | filter : 5" ng-bind="a.FundName"></li>
+					</ul>
 				</div>
 			</div>
 			<div class="row">

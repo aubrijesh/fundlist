@@ -1,4 +1,4 @@
-app.controller('mainController', ['$scope', 'mainService', '$compile', function($scope, MainService, $compile) {
+app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter', function($scope, MainService, $compile, $filter) {
 	$scope.filter = [];
     $scope.WATCHLIST = [];
 	$scope.funds = [];
@@ -9,6 +9,7 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', function(
     $scope.regionFilter = {};
     $scope.starFilter = {};
     $scope.watchFilter = {};
+    $scope.typeahead = [];
     $scope.watchlist = 0;
 	$scope.slider = {
 	    min: 0,
@@ -17,6 +18,15 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', function(
     $scope.totalItems = 0;
     $scope.currentPage = 0;
     $scope.numPerPage = 25;
+
+    $scope.loosefocus = function(){
+        $scope.typeahead = [];
+        $scope.searchbox = "";
+    };
+
+    $scope.keyPress = function($event){
+        $scope.typeahead = $filter('filter')($scope.funds, {"Name": $scope.searchbox});
+    };
 
     $scope.watchFilterFunc = function($event){
         $scope.watchFilter = {};
