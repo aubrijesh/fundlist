@@ -136,7 +136,7 @@
 				</div>
 				<div class="col-md-9 bg-grey">
 					<hr>
-					<div class="bg-white list" data-ng-repeat="obj in funds | filter:search | filter : paginate">
+					<div class="bg-white list" data-ng-repeat="obj in funds | filter:typeFilter | filter:classFilter | filter:currencyFilter | filter:regionFilter | filter:starFilter | filter : paginate">
 						<div class="row pad-10">
 							<div class="col-md-6 ">
 								<a href="#" data-ng-bind="obj.Name"></a>
