@@ -9,8 +9,10 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
     $scope.regionFilter = {};
     $scope.starFilter = {};
     $scope.watchFilter = {};
+    $scope.nameFilter = {};
     $scope.typeahead = [];
     $scope.watchlist = 0;
+    $scope.timeout = 3000;
 	$scope.slider = {
 	    min: 0,
 	    max: 0
@@ -19,13 +21,31 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
     $scope.currentPage = 0;
     $scope.numPerPage = 25;
 
+    $scope.watchAndClearFilter = function(){
+        if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
+        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
+        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0
+        && Object.keys($scope.nameFilter).length === 0){
+            setTimeout(function(){
+                $scope.$apply(function () {
+                    $scope.numPerPage = 25;
+                });
+            }, $scope.timeout);
+        }
+    };
+
     $scope.typeaheadSelect = function(val) {
-        $scope.searchbox = val;
+        $scope.nameFilter['FundName'] = val;
+        $scope.numPerPage = $scope.totalItems;
     };
 
     $scope.loosefocus = function(){
-        $scope.typeahead = [];
-        $scope.searchbox = "";
+        setTimeout(function(){
+            $scope.$apply(function () {
+                $scope.typeahead = [];
+                $scope.searchbox = "";
+            });
+        }, 500);
     };
 
     $scope.keyPress = function($event){
@@ -64,82 +84,39 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
         $scope.regionFilter = {};
         $scope.starFilter = {};
         $scope.watchFilter = {};
+        $scope.nameFilter = {};
         $(".checkbox").attr("checked", false);
         $scope.ShareClassSelect = '';
         $scope.CurrencySelect = '';
         $scope.numPerPage = 25;
     };
 
+    $scope.$watch('nameFilter', function() {
+       $scope.watchAndClearFilter();
+    });
+
     $scope.$watch('typeFilter', function() {
-       if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
-        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
-        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0){
-            setTimeout(function(){
-                $scope.$apply(function () {
-                    $scope.numPerPage = 25;
-                });
-            }, 3000);
-        }
+       $scope.watchAndClearFilter();
     });
 
     $scope.$watch('classFilter', function() {
-       if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
-        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
-        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0){
-            setTimeout(function(){
-                $scope.$apply(function () {
-                    $scope.numPerPage = 25;
-                });
-            }, 3000);
-        }
+       $scope.watchAndClearFilter();
     });
 
     $scope.$watch('currencyFilter', function() {
-       if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
-        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
-        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0){
-            setTimeout(function(){
-                $scope.$apply(function () {
-                    $scope.numPerPage = 25;
-                });
-            }, 3000);
-        }
+       $scope.watchAndClearFilter();
     });
 
     $scope.$watch('regionFilter', function() {
-       if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
-        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
-        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0){
-            setTimeout(function(){
-                $scope.$apply(function () {
-                    $scope.numPerPage = 25;
-                });
-            }, 3000);
-        }
+       $scope.watchAndClearFilter();
     });
 
     $scope.$watch('starFilter', function() {
-       if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
-        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
-        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0){
-            setTimeout(function(){
-                $scope.$apply(function () {
-                    $scope.numPerPage = 25;
-                });
-            }, 3000);
-        }
+       $scope.watchAndClearFilter();
     });
 
     $scope.$watch('watchFilter', function() {
-       if(Object.keys($scope.typeFilter).length === 0 && Object.keys($scope.classFilter).length === 0 &&
-        Object.keys($scope.currencyFilter).length === 0 && Object.keys($scope.regionFilter).length === 0
-        && Object.keys($scope.starFilter).length === 0 && Object.keys($scope.watchFilter).length === 0){
-            setTimeout(function(){
-                $scope.$apply(function () {
-                    $scope.numPerPage = 25;
-                });
-            }, 3000);
-        }
+       $scope.watchAndClearFilter();
     });
 
     $scope.typeCheckboxChange = function(val,$event){
@@ -284,7 +261,7 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
 
 	MainService.get('http://localhost:8000/data/chart', function(result){
 		if(result['status'] === 200){
-			$scope.Chartdata =result['data']['chart'];
+			$scope.Chartdata = result['data']['chart'];
 		}
 	});
 

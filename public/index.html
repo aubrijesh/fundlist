@@ -103,7 +103,7 @@
 			<div class="row top-40">
 				<div class="col-md-offset-2 col-md-8">
 					<div class="input-group">
-						<input type="text" autocomplete="off" ng-blur="loosefocus()" class="form-control" ng-model="searchbox" ng-keyup="keyPress($event)" placeholder="Search Fund Name or ISIN">
+						<input type="text" autocomplete="off" ng-blur="loosefocus()" class="form-control" ng-model="searchbox" ng-keyup="keyPress($event)" placeholder="Search Fund Name">
 						<span class="input-group-btn">
 							<button class="btn btn-warning" type="button">
 								<i class="glyphicon glyphicon-search"></i>
@@ -112,7 +112,7 @@
 						</span>
 					</div><!-- /input-group -->
 					<ul class="typeahead">
-						<li ng-repeat="a in typeahead" ng-bind="a.FundName" ng-click="typeaheadSelect()"></li>
+						<li ng-repeat="a in typeahead" ng-bind="a.FundName" ng-click="typeaheadSelect(a.FundName)"></li>
 					</ul>
 				</div>
 			</div>
@@ -170,7 +170,7 @@
 				</div>
 				<div class="col-md-9 bg-grey">
 					<hr>
-					<div class="bg-white list" data-ng-repeat="obj in funds | filter:typeFilter | filter:classFilter | filter:currencyFilter | filter:regionFilter | filter:starFilter | filter:watchFilter | filter : paginate">
+					<div class="bg-white list" data-ng-repeat="obj in funds | filter:typeFilter | filter:classFilter | filter:currencyFilter | filter:regionFilter | filter:starFilter | filter:watchFilter | filter:nameFilter | filter : paginate">
 						<div class="row pad-10">
 							<div class="col-md-6 ">
 								<a href="#" data-ng-bind="obj.Name"></a>
