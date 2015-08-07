@@ -1,29 +1,24 @@
 # KURTOSYS Front-end test
 
-# The task
-Create an angular application which shows the fund and *share class*es information on a page
-The page should have a list of funds where each fund has a dropdown to change *share class* on that specific fund. By default, the first *share class* is selected.
-Make sure the application has tests included.
+# About
+Simple MEAN app.It has pagination + table Filtration + typeahead funtionality + dynamic updated chart. All in one APP.
 
 ## Requirements
-Get the `funds.json` by an AJAX call. Show properties described below
-
-When a *share class* is selected/changed, it should get the line chart data for that specific ISIN - however the data response would be the same, pass the following parameters to the chart call:
-- `from` date (unix timestamp)
-- `to` date (unix timestamp)
-- `isin` (string)
-
-Use any chart library to show chart data. (HighCharts preferred)
-
-When making the AJAX call for the line chart, make sure a **valid** ISIN is passed (see `"ISIN Code": "GB00BGnotvalid"` in `funds.json`) - otherwise show an error message to the user
-
-- The fund list should show data properties from the fund itself and data from *share class* (see `funds.json`'s structure). Show at least 5 fund-level property and 5 *share class*-level property beside the following ones
-- If a property is empty: a dash should appear.
-- Show `"Lauch Date"` property as `"MM/DD/YYYY"`, other dates should be formatted as `"DD MMM YYYY"`
-- Show `"Compound Return 1 Year Annual"` and `"NAV Base"`. Should have 2 decimal places and thousand separators
-- If the fund is older than 4 year (see `"Lauch Date"` property), show the *share class* properties as a list (`<ul>`) instead of a table
-
-See a working example here: http://fe2.jpmorgan.com
+### Node.js (version - v0.10.37)
+    Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+### Angular.js (version - v1.2.16)
+    Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+### Express.js (version - *)
+    Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+### Bootstrap (version - v3.3.5)
+    Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+### Angular-nvd3 (version - v0.1.1)
+    AngularJS-nvD3
+    http://krispo.github.io/angular-nvd3
+### Angular RangeSlider Directive (version - v0.0.13)
+    The rangeSlider has been styled to match the default styling
+    of form elements styled using Twitter's Bootstrap
+    Originally forked from https://github.com/leongersen/noUiSlider
 
 # Data to be used
 - `funds.json`: contains the fund and *share class* data
