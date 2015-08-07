@@ -17,6 +17,10 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
 	    min: 0,
 	    max: 0
 	};
+	$scope.slider_model = {
+        min:10,
+        max: 20
+    };
     $scope.totalItems = 0;
     $scope.currentPage = 0;
     $scope.numPerPage = 25;
@@ -244,8 +248,11 @@ app.controller('mainController', ['$scope', 'mainService', '$compile', '$filter'
 			$scope.filter.forEach(function(val){
 				if(val.FilterTypeName == 'Fund Size'){
 					if($scope.slider['max'] < val.FilterName){
-						$scope.slider['min'] = $scope.slider['max'];
-						$scope.slider['max'] = val.FilterName;
+						$scope.slider.min = $scope.slider.max;
+                				   // $scope.slider.min=0;
+						$scope.slider.max = Number(val.FilterName);
+                				$scope.slider_model.min=$scope.slider.min ;
+                				$scope.slider_model.max=$scope.slider.max;
 					}
 				}
 			});
