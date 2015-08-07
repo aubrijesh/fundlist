@@ -21,7 +21,15 @@ It has pagination + table Filtration + typeahead funtionality + dynamic updated 
     of form elements styled using Twitter's Bootstrap
     Originally forked from https://github.com/leongersen/noUiSlider
 
-# Project structure
+## Installation
+
+    1. Make Directory where you want to take clone. [ mkdir frontend ]
+    2. Take clone from git using command:- git clone <git repo url>.
+    4. cd to Your folder. [ cd frontend ]
+    5. npm install.
+    7. node app.js
+
+## Project structure
     The project structure is as follows :
     package.json // dependencies
     app.js  // Main File to start server at port no 8000
@@ -36,20 +44,3 @@ It has pagination + table Filtration + typeahead funtionality + dynamic updated 
         fonts/
         index.html // Main HTML file
         app.js // Angular Main App file
-        
-
-# Development
-- Don't make any design, or keep it minimal, we're interested in how you code :)
-- Feel free to use any library which makes the development easier and faster
-- Make sure the project can be easily extended. Write clean, easily understandable code. Make sure your code is consistent along the whole project
-- Keep in mind others might have to read, learn and change your code in the future
-- Create tests for directives, controllers and services. E2E test is optional
-
-
-# How to send the test?
-- Fork this repository and make the changes on it
-- Commit as many states as you can while developing
-- Send only the link to your repository. **DON'T CREATE A PULL-REQUEST!**
-
-### gl;hf :)
-
