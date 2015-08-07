@@ -22,7 +22,7 @@ It has pagination + table Filtration + typeahead funtionality + dynamic updated 
     Originally forked from https://github.com/leongersen/noUiSlider
 
 # Project structure
-The project structure is as follows :
+    The project structure is as follows :
     package.json // dependencies
     app.js  // Main File to start server at port no 8000
     node_modules/
