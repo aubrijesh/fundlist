@@ -1,7 +1,8 @@
 # KURTOSYS Front-end test
 
 # About
-Simple MEAN app.It has pagination + table Filtration + typeahead funtionality + dynamic updated chart. All in one APP.
+Simple MEAN app. Developed for one test interview
+It has pagination + table Filtration + typeahead funtionality + dynamic updated chart. All in one APP.
 
 ## Requirements
 ### Node.js (version - v0.10.37)
@@ -20,16 +21,22 @@ Simple MEAN app.It has pagination + table Filtration + typeahead funtionality + 
     of form elements styled using Twitter's Bootstrap
     Originally forked from https://github.com/leongersen/noUiSlider
 
-# Data to be used
-- `funds.json`: contains the fund and *share class* data
-- `chart.json`: contains data for line chart
-
 # Project structure
-The project structure should follow the angular team's recommendation, dividing the functionality into "modules"
-You can use any kind of `yeoman` generator to create the structure, like:
-- https://github.com/codigo-pl/generator-angular-feature
-- https://github.com/DaftMonk/generator-angular-fullstack
-- https://github.com/cgross/generator-cg-angular
+The project structure is as follows :
+    package.json // dependencies
+    app.js  // Main File to start server at port no 8000
+    node_modules/
+    data/ // Json data files.
+    routes.js // Server Routes
+    public/
+        js/
+            controller/ // Angular controllers
+            services/   // Angular Services
+        css/
+        fonts/
+        index.html // Main HTML file
+        app.js // Angular Main App file
+        
 
 # Development
 - Don't make any design, or keep it minimal, we're interested in how you code :)
